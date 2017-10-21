@@ -1,0 +1,221 @@
+#! /bin/sh
+
+if xdo id -a "$PANEL_WM_NAME" > /dev/null ; then
+	printf "%s\n" "The panel is already running." >&2
+	exit 1
+fi
+
+trap 'trap - TERM; kill 0' INT TERM QUIT EXIT
+
+[ -e "$PANEL_FIFO" ] && rm "$PANEL_FIFO"
+mkfifo "$PANEL_FIFO"
+
+bspc config top_padding $PANEL_HEIGHT
+
+# Colorscheme for default-dark
+BLUE="%{F#FF5F819D}"
+LIGHTBLUE="%{F#FF81A2BE}"
+RED="%{F#FFA54242}"
+LIGHTRED="%{F#FFCC6666}"
+YELLOW="%{F#FFF0C674}"
+ORANGE="%{F#FFDE935F}"
+MAGENTA="%{F#FF85678F}"
+TEAL="%{F#FF5E8D87}"
+LIGHTGREY="%{F#FFC5C8C6}"
+DARKGREY="%{F#FF707880}"
+GREEN="%{F#FF8C9440}"
+LIGHTGREEN="%{F#FFB5BD68}"
+PURPLE="%{F#FF9547C9}"
+BG="%{F#FF151515}"
+
+bspc subscribe report > "$PANEL_FIFO" &
+
+panel_clock()
+{
+	echo $BLUE $(clock -f '%a %d %I:%M')
+}
+
+panel_sigStrength()
+{
+        signalStrength=$(cat /proc/net/wireless | awk 'NR==3 { print $3}' | sed 's/\.//')
+	isEthernet=$(connmanctl technologies | awk '/Connected/ { print $NF }')
+
+	final=$(echo $isEthernet | awk '{print $1}')
+
+	if [ "$final" == "True" ]
+	then
+                echo $LIGHTBLUE "Wired"
+        elif [ "$signalStrength" -ge 65 ]
+        then
+                echo $LIGHTBLUE ""$RED" "$ORANGE""$YELLOW""$GREEN""$BLUE""$LIGHTBLUE" "
+        elif [ "$signalStrength" -lt 65 ] && [ "$signalStrength" -ge 58 ]
+        then
+                echo $LIGHTBLUE ""$RED" "$ORANGE""$YELLOW""$GREEN""$DARKGREY""$LIGHTBLUE" "
+        elif [ "$signalStrength" -lt 58 ] && [ "$signalStrength" -ge 51 ]
+        then
+                echo $LIGHTBLUE ""$RED" "$ORANGE""$YELLOW""$DARKGREY""$LIGHTBLUE" "
+        elif [ "$signalStrength" -lt 54 ] && [ "$signalStrength" -ge 47 ]
+        then
+				echo $LIGHTBLUE ""$RED" "$ORANGE""$DARKGREY""$LIGHTBLUE" "
+		elif [ "$signalStrength" -lt 47 ]
+		then
+				echo $LIGHTBLUE ""$RED" "$DARKGREY" "$LIGHTBLUE" "
+        else
+                echo $LIGHTBLUE""$DARKGREY" Connecting..."$LIGHTBLUE" "
+        fi
+}
+
+panel_essid()
+{
+	echo $YELLOW $(panel_sigStrength) $(essid -w wlp2s0)
+}
+
+panel_battery()
+{
+        batStats=$(acpi --battery | cut -d' ' -f3 | sed 's/,//')
+        if [ "$batStats" == "" ]
+        then
+                echo $LIGHTBLUE"  "$DARKGREY "AC"
+        elif [ "$batStats" == "Charging" ]
+        then
+                echo $LIGHTBLUE" "$GREEN" " $(acpi --battery | cut -d' ' -f4 | sed 's/%,//')"%"
+        elif [ "$batStats" == "Discharging" ]
+        then
+                echo $LIGHTBLUE" "$RED" " $(acpi --battery | cut -d' ' -f4 | sed 's/%,//')"%"
+	elif [ "$batStats" == "Unknown" ]
+	then
+                echo $LIGHTBLUE"  "$GREEN"  100%"
+        else    echo $LIGHTBLUE"  "$YELLOW "Refreshing..."
+        fi
+}
+
+panel_volicon()
+{
+        volStatus=$(amixer get Master | tail -n 1 | cut -d '[' -f 4 | sed 's/].*//g')
+
+        if [ "$volStatus" == "on" ]
+                then echo $LIGHTGREY ""
+        elif [ "$volStatus" == "off" ]
+                then echo $LIGHTRED " "
+	else echo "foo"
+        fi
+}
+
+panel_volume()
+{
+
+        volStatus=$(amixer get Master | tail -n 1 | cut -d '[' -f 4 | sed 's/].*//g')
+        volLevel=$(amixer get Master | tail -n 1 | cut -d '[' -f 2 | sed 's/\%].*//g')
+        case $volLevel in
+		#100)    if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"——————————"
+		#else echo $(panel_volicon) $RED"——————————"
+                #        fi
+                #        ;;
+		#[0-9]) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"—"$BG"—————————"
+		#else echo $(panel_volicon) $RED"—"$BG"—————————"
+                #        fi
+                #        ;;
+		#1*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"——"$BG"————————"
+		#else echo $(panel_volicon) $RED"——"$BG"————————"
+                #        fi
+                #        ;;
+		#2*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"———"$BG"———————"
+		#else echo $(panel_volicon) $RED"———"$BG"———————"
+                #        fi
+                #        ;;
+		#3*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"————"$BG"——————"
+		#else echo $(panel_volicon) $RED"————"$BG"——————"
+                #        fi
+                #        ;;
+		#4*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"—————"$BG"—————"
+		#else echo $(panel_volicon) $RED"—————"$BG"—————"
+                #        fi
+                #        ;;
+		#5*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"——————"$BG"————"
+		#else echo $(panel_volicon) $RED"——————"$BG"————"
+                #        fi
+                #        ;;
+		#6*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"———————"$BG"———"
+		#else echo $(panel_volicon) $RED"———————"$BG"———"
+                #        fi
+                #        ;;
+		#7*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"————————"$BG"——"
+		#else echo $(panel_volicon) $RED"————————"$BG"——"
+                #        fi
+                #        ;;
+		#8*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"——————————"$BG"—"
+		#else echo $(panel_volicon) $RED"——————————"$BG"—"
+                #        fi
+                #        ;;
+		#9*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"——————————"
+		#else echo $(panel_volicon) $RED"——————————"
+                #        fi
+                #        ;;
+
+		100)    if [ "$volStatus" == "on" ]; then echo $(panel_volicon) $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		[0-9]) if [ "$volStatus" == "on" ]; then echo $(panel_volicon) $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		1*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon) $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		2*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon) $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		3*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		4*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		5*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		6*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		7*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		8*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		9*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+
+        esac
+}
+
+while true; do
+	echo "S" $(panel_battery)%{A:startWicd:}$(panel_essid)%{A} $(panel_volume) $LIGHTBLUE" " $(panel_clock) > "$PANEL_FIFO" &
+	sleep 1s
+done &
+
+. panel_colors
+
+panel_bar < "$PANEL_FIFO" | lemonbar -a 32 -n "$PANEL_WM_NAME" -g 960x$PANEL_HEIGHT+960+0 -f "Cantarell-16" -f "FontAwesome-15" -F "$COLOR_DEFAULT_FG" -B "#1B1B1B" | sh &
+
+wid=$(xdo id -a "$PANEL_WM_NAME")
+tries_left=20
+while [ -z "$wid" -a "$tries_left" -gt 0 ] ; do
+	sleep 0.05
+	wid=$(xdo id -a "$PANEL_WM_NAME")
+	tries_left=$((tries_left - 1))
+done
+[ -n "$wid" ] && xdo above -t "$(xdo id -N Bspwm -n root | sort | head -n 1)" "$wid"
+
+wait

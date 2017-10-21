@@ -1,0 +1,10 @@
+engines:
+  shellcheck:
+    enabled: true
+ratings:
+  paths:
+  - "aurget"
+exclude_paths:
+  - "aurgetrc"
+  - "completion/*"
+  - "test/*"

@@ -1,0 +1,158 @@
+#!/bin/bash
+#
+# Lemonbar script
+#
+
+font="xft:DejaVuSansMono:size=18"
+glyphs="MaterialIcons-18"
+
+fg="#777777"
+bg="#1b1b1b"
+#light="#628b87"
+#light="#dc322f"
+#ylw="#b58900"
+grn="#859900"
+blu="#268bd2"
+#acpwr="#3B9D3B"
+
+getTime(){
+  echo "%{F$blu} %{F$fg}$(date +"%I:%M")"
+}
+
+getBattery() {
+  icon=""
+  if [[ $(cat /sys/class/power_supply/BAT0/status) = "Charging" ]]; then
+    icon=""
+    echo "%{F$grn}"$icon%{F$grn} $(cat /sys/class/power_supply/BAT0/capacity)
+  else
+	echo "%{F$blu}"$icon%{F$fg} $(cat /sys/class/power_supply/BAT0/capacity)
+  fi
+}
+
+getDesktop(){
+  for i in $(bspc query -D); do
+    if [ $i = $(bspc query -D -d) ]; then
+      echo %{F$blu}
+    else
+      echo %{F$fg}
+    fi
+  done
+}
+
+panel_volicon()
+{
+        volStatus=$(amixer get Master | tail -n 1 | cut -d '[' -f 4 | sed 's/].*//g')
+
+        if [ "$volStatus" == "on" ]
+                then echo %{F$blu}""%{F$fg}
+        elif [ "$volStatus" == "off" ]
+                then echo $LIGHTRED ""
+	else echo "foo"
+        fi
+}
+
+panel_volume()
+{
+
+        volStatus=$(amixer get Master | tail -n 1 | cut -d '[' -f 4 | sed 's/].*//g')
+        volLevel=$(amixer get Master | tail -n 1 | cut -d '[' -f 2 | sed 's/\%].*//g')
+        case $volLevel in
+		#100)    if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"——————————"
+		#else echo $(panel_volicon) $RED"——————————"
+                #        fi
+                #        ;;
+		#[0-9]) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"—"$BG"—————————"
+		#else echo $(panel_volicon) $RED"—"$BG"—————————"
+                #        fi
+                #        ;;
+		#1*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"——"$BG"————————"
+		#else echo $(panel_volicon) $RED"——"$BG"————————"
+                #        fi
+                #        ;;
+		#2*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"———"$BG"———————"
+		#else echo $(panel_volicon) $RED"———"$BG"———————"
+                #        fi
+                #        ;;
+		#3*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"————"$BG"——————"
+		#else echo $(panel_volicon) $RED"————"$BG"——————"
+                #        fi
+                #        ;;
+		#4*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"—————"$BG"—————"
+		#else echo $(panel_volicon) $RED"—————"$BG"—————"
+                #        fi
+                #        ;;
+		#5*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"——————"$BG"————"
+		#else echo $(panel_volicon) $RED"——————"$BG"————"
+                #        fi
+                #        ;;
+		#6*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"———————"$BG"———"
+		#else echo $(panel_volicon) $RED"———————"$BG"———"
+                #        fi
+                #        ;;
+		#7*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"————————"$BG"——"
+		#else echo $(panel_volicon) $RED"————————"$BG"——"
+                #        fi
+                #        ;;
+		#8*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"——————————"$BG"—"
+		#else echo $(panel_volicon) $RED"——————————"$BG"—"
+                #        fi
+                #        ;;
+		#9*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY"——————————"
+		#else echo $(panel_volicon) $RED"——————————"
+                #        fi
+                #        ;;
+
+		100)    if [ "$volStatus" == "on" ]; then echo $(panel_volicon) $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		[0-9]) if [ "$volStatus" == "on" ]; then echo $(panel_volicon) $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		1*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon) $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		2*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon) $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		3*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		4*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		5*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		6*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		7*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		8*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+		9*) if [ "$volStatus" == "on" ]; then echo $(panel_volicon)  $LIGHTGREY$volLevel"%"
+		else echo $(panel_volicon) $LIGHTRED$volLevel"%"
+                        fi
+                        ;;
+
+        esac
+}
+
+killall lemonbar
+
+while true; do
+  echo %{l} "  " $(getDesktop)%{r} $(getBattery) " " $(panel_volume) " " $(getTime)"   "   
+  sleep 1
+done | lemonbar -g "960x50+960+0" -B $bg -o 0 -f $font -o -3 -f $glyphs | sh &

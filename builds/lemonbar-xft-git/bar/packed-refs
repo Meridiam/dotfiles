@@ -1,0 +1,16 @@
+# pack-refs with: peeled fully-peeled 
+854af9cbadc44d13d67ce5efcdfdc33878f3e83e refs/heads/master
+a43b801ddc0f015ce8b1211f4c062fad12cd63a9 refs/heads/offset-test
+91b444acf57b8d33425fdeac0704647483546778 refs/heads/ucs4
+a43b801ddc0f015ce8b1211f4c062fad12cd63a9 refs/heads/xft-port
+12aed99e76e415a8ba65b4321ded1b36208673b8 refs/pull/12/head
+261bd4345b520b140a0194aee2475ee3b7bce1d0 refs/pull/12/merge
+8c7656d3837f7757fa7a6e1d5c5f2e7fb118613b refs/pull/19/head
+2af659a472ad92539f481cff0e2b08fa9f5b1d22 refs/pull/19/merge
+7d17fa5040b0f1ea0a75bb315272b49a9356bc7d refs/pull/2/head
+7c8eb7495bd3594d461125e2c99818eb155ff6ef refs/pull/20/head
+90b86434102216211011494e6f72d8efe8e72b15 refs/pull/24/head
+d27996864509eb21953224ef0c2d4df53c5671a6 refs/pull/24/merge
+95c41381accc61cfd5a781390032bcabceb02172 refs/pull/4/head
+4f60256cd10cd606f893cdc040eb1efc8f24f6e6 refs/pull/7/head
+3919a0045c4a065f67f9f4c39a241641c0da3cf2 refs/tags/v1.0
