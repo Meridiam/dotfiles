@@ -1,0 +1,160 @@
+! vim: set filetype=xdefaults :
+
+Xft.dpi: 110
+
+URxvt.font: xft:Deja Vu Sans Mono for Powerline:size=15
+! URxvt.font: xft:SourceCodePro:size=15
+! URxvt.font: xft:Source Code Pro for Powerline:size=15
+
+URxvt.intensityStyles: false
+
+! Bold fonts
+URxvt*boldFont: 
+URxvt*italicFont: 
+URxvt*bolditalicFont: 
+
+! lineSpace causes problems with vim icons being displayed displaced upward
+! *lineSpace: 8
+*letterSpace: 0
+*scrollBar: false
+
+! set terminal padding
+*internalBorder: 40
+
+! set cursor blinking
+*cursorBlink: 1
+
+! set bell
+URxvt.urgentOnBell: true
+
+! Copy/paste
+*keysym.Shift-Control-V: perl:clipboard:paste
+*iso14755: False
+*perl-ext-common: default,clipboard,matcher
+
+! Open urls
+*url-launcher: /usr/bin/xdg-open
+*matcher.button: 1
+
+! special
+!cursorColor:  #8ec07c
+!pointerColorBackground:	#b8bb26
+!pointerColorForeground:	#8ec07c
+! hard contrast: *background: #1d2021
+!background: #282828
+! soft contrast: *background: #32302f
+!foreground: rgb:eb/db/b2
+! Black + DarkGrey
+!color0:  #282828
+!color8:  #928374
+! DarkRed + Red
+!color1:  #cc241d
+!color9:  #fb4934
+! DarkGreen + Green
+!color2:  #98971a
+!color10: #b8bb26
+! DarkYellow + Yellow
+!color3:  #d79921
+!color11: #fabd2f
+! DarkBlue + Blue
+!color4:  #458588
+!color12: #83a598
+! DarkMagenta + Magenta
+!color5:  #b16286
+!color13: #d3869b
+! DarkCyan + Cyan
+!color6:  #689d6a
+!color14: #8ec07c
+! LightGrey + White
+!*color7:  #a89984
+!*color15: #ebdbb2
+
+#define S_yellow        #b58900
+#define S_orange        #cb4b16
+#define S_red           #dc322f
+#define S_magenta       #d33682
+#define S_violet        #6c71c4
+#define S_blue          #268bd2
+#define S_cyan          #2aa198
+#define S_green         #859900
+
+
+! Dark
+
+#define S_base03        #1b1b1b
+#define S_base02        #073642
+#define S_base01        #586e75
+#define S_base00        #657b83
+#define S_base0         #839496
+#define S_base1         #93a1a1
+#define S_base2         #eee8d5
+#define S_base3         #fdf6e3
+
+
+! Light
+
+! #define S_base03        #fdf6e3
+! #define S_base02        #eee8d5
+! #define S_base01        #93a1a1
+! #define S_base00        #839496
+! #define S_base0         #657b83
+! #define S_base1         #586e75
+! #define S_base2         #073642
+! #define S_base3         #002b36
+
+
+! To only apply colors to your terminal, for example, prefix
+! the color assignment statement with its name. Example:
+!
+! URxvt*background:            S_base03
+
+*background:              S_base03
+*foreground:              S_base0
+*cursorColor:             S_base1
+*pointerColorBackground:  S_base01
+*pointerColorForeground:  S_base1
+
+*color0:                  S_base02
+*color1:                  S_red
+*color2:                  S_green
+*color3:                  S_yellow
+*color4:                  S_blue
+*color5:                  S_magenta
+*color6:                  S_cyan
+*color7:                  S_base2
+*color9:                  S_orange
+*color8:                  S_base03
+*color10:                 S_base01
+*color11:                 S_base00
+*color12:                 S_base0
+*color13:                 S_violet
+*color14:                 S_base1
+*color15: S_base3
+
+/* Rofi */
+#define r_bg   #000000
+#define r_fg   #ebdbb2
+#define r_hlfg #d65d0e
+ 
+! States: bg, fg, bgalt, hlbg, hlfg
+rofi.color-enabled: true
+rofi.color-normal: r_bg,r_fg,#000000,r_bg,r_hlfg
+rofi.color-urgent: r_bg,#fb4934,#000000,r_bg,r_hlfg
+rofi.color-active: r_bg,r_fg,#000000,r_bg,#fe8019
+! states: background, border
+rofi.color-window: r_bg,#d5c4a1
+ 
+rofi.separator-style: none
+rofi.sidebar-mode: true
+rofi.bw: 0
+rofi.columns: 1
+rofi.padding: 16
+ 
+rofi.yoffset: 0
+rofi.opacity: 50
+rofi.fake-transparency: false
+rofi.location: 0
+rofi.width: 50
+rofi.font: GohuFont 11
+rofi.lines: 15
+rofi.hide-scrollbar: true

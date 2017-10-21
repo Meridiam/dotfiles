@@ -1,0 +1,27 @@
+search 
+cd ~
+help
+deletes
+rename
+rename Ambiguous
+rename Ambiguous.mp3
+open_with cmus
+move
+cut
+open_with uzip
+rename dotfiles-examples
+open_with unzip
+rename dotdotdot
+rename dotfiler
+open_with geany
+new
+paste
+tar
+open_with tar
+copy
+name
+
+qq
+open_with vim
+open_with libreoffice
+delete

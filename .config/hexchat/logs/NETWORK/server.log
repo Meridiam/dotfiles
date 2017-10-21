@@ -1,0 +1,778 @@
+**** BEGIN LOGGING AT Wed Jul 27 11:49:48 2016
+
+Jul 27 11:49:48 Checksum plugin loaded
+Jul 27 11:49:48 Perl interface loaded
+Jul 27 11:49:48 AutoLoad failed for: /usr/lib/hexchat/plugins/python.so
+Jul 27 11:49:48 libpython3.5m.so.1.0: cannot open shared object file: No such file or directory
+Jul 27 11:49:48 Do At plugin loaded
+Jul 27 11:49:48 Sysinfo plugin loaded
+Jul 27 11:49:48 FiSHLiM plugin loaded
+Jul 27 11:49:48 AutoLoad failed for: /usr/lib/hexchat/plugins/lua.so
+Jul 27 11:49:48 liblua.so.5.3: cannot open shared object file: No such file or directory
+**** BEGIN LOGGING AT Wed Jul 27 19:16:40 2016
+
+Jul 27 19:16:40 Checksum plugin loaded
+Jul 27 19:16:40 Perl interface loaded
+Jul 27 19:16:40 AutoLoad failed for: /usr/lib/hexchat/plugins/python.so
+Jul 27 19:16:40 libpython3.5m.so.1.0: cannot open shared object file: No such file or directory
+Jul 27 19:16:40 Do At plugin loaded
+Jul 27 19:16:40 Sysinfo plugin loaded
+Jul 27 19:16:40 FiSHLiM plugin loaded
+Jul 27 19:16:40 AutoLoad failed for: /usr/lib/hexchat/plugins/lua.so
+Jul 27 19:16:40 liblua.so.5.3: cannot open shared object file: No such file or directory
+Jul 27 19:16:40 *	Looking up irc.rizon.net
+Jul 27 19:16:40 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Jul 27 19:16:41 *	* Certification info:
+Jul 27 19:16:41 *	  Subject:
+Jul 27 19:16:41 *	    OU=Domain Control Validated
+Jul 27 19:16:41 *	    OU=Gandi Standard SSL
+Jul 27 19:16:41 *	    CN=irc.rizon.net
+Jul 27 19:16:41 *	  Issuer:
+Jul 27 19:16:41 *	    C=FR
+Jul 27 19:16:41 *	    ST=Paris
+Jul 27 19:16:41 *	    L=Paris
+Jul 27 19:16:41 *	    O=Gandi
+Jul 27 19:16:41 *	    CN=Gandi Standard SSL CA 2
+Jul 27 19:16:41 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 27 19:16:41 *	  Sign algorithm sha256WithRSAEncryption
+Jul 27 19:16:41 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 27 19:16:41 *	* Cipher info:
+Jul 27 19:16:41 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 27 19:16:41 *	Connected. Now logging in.
+Jul 27 19:16:41 *	Please wait while we process your connection.
+Jul 27 19:16:41 *	*** Looking up your hostname...
+Jul 27 19:16:41 *	*** Checking Ident
+Jul 27 19:16:41 *	*** Couldn't look up your hostname
+Jul 27 19:16:42 *	*** No Ident response
+Jul 27 19:16:42 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 27 19:16:42 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 27 19:16:42 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 27 19:16:42 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 27 19:16:42 *	*** Your host is masked (8FD95AEF:357FC0A4:3BFB3BC5:IP)
+**** ENDING LOGGING AT Wed Jul 27 19:16:42 2016
+
+**** BEGIN LOGGING AT Wed Jul 27 19:18:54 2016
+
+Jul 27 19:18:54 Checksum plugin loaded
+Jul 27 19:18:54 Perl interface loaded
+Jul 27 19:18:54 AutoLoad failed for: /usr/lib/hexchat/plugins/python.so
+Jul 27 19:18:54 libpython3.5m.so.1.0: cannot open shared object file: No such file or directory
+Jul 27 19:18:54 Do At plugin loaded
+Jul 27 19:18:54 Sysinfo plugin loaded
+Jul 27 19:18:54 FiSHLiM plugin loaded
+Jul 27 19:18:54 AutoLoad failed for: /usr/lib/hexchat/plugins/lua.so
+Jul 27 19:18:54 liblua.so.5.3: cannot open shared object file: No such file or directory
+Jul 27 19:18:54 *	Looking up irc.rizon.net
+Jul 27 19:18:54 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Jul 27 19:18:55 *	* Certification info:
+Jul 27 19:18:55 *	  Subject:
+Jul 27 19:18:55 *	    OU=Domain Control Validated
+Jul 27 19:18:55 *	    OU=Gandi Standard SSL
+Jul 27 19:18:55 *	    CN=irc.rizon.net
+Jul 27 19:18:55 *	  Issuer:
+Jul 27 19:18:55 *	    C=FR
+Jul 27 19:18:55 *	    ST=Paris
+Jul 27 19:18:55 *	    L=Paris
+Jul 27 19:18:55 *	    O=Gandi
+Jul 27 19:18:55 *	    CN=Gandi Standard SSL CA 2
+Jul 27 19:18:55 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 27 19:18:55 *	  Sign algorithm sha256WithRSAEncryption
+Jul 27 19:18:55 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 27 19:18:55 *	* Cipher info:
+Jul 27 19:18:55 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 27 19:18:55 *	Connected. Now logging in.
+Jul 27 19:18:55 *	Please wait while we process your connection.
+Jul 27 19:18:55 *	*** Looking up your hostname...
+Jul 27 19:18:55 *	*** Checking Ident
+Jul 27 19:18:55 *	*** Couldn't look up your hostname
+Jul 27 19:18:57 *	*** No Ident response
+Jul 27 19:18:57 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 27 19:18:57 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 27 19:18:57 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 27 19:18:57 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 27 19:18:57 *	*** Your host is masked (8FD95AEF:357FC0A4:3BFB3BC5:IP)
+**** ENDING LOGGING AT Wed Jul 27 19:18:57 2016
+
+**** BEGIN LOGGING AT Thu Jul 28 13:29:53 2016
+
+Jul 28 13:29:53 Checksum plugin loaded
+Jul 28 13:29:53 Perl interface loaded
+Jul 28 13:29:53 Python interface loaded
+Jul 28 13:29:53 Do At plugin loaded
+Jul 28 13:29:53 Sysinfo plugin loaded
+Jul 28 13:29:53 FiSHLiM plugin loaded
+Jul 28 13:29:53 AutoLoad failed for: /usr/lib/hexchat/plugins/lua.so
+Jul 28 13:29:53 liblua.so.5.3: cannot open shared object file: No such file or directory
+Jul 28 13:29:53 *	Looking up irc.rizon.net
+Jul 28 13:29:53 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Jul 28 13:29:54 *	* Certification info:
+Jul 28 13:29:54 *	  Subject:
+Jul 28 13:29:54 *	    OU=Domain Control Validated
+Jul 28 13:29:54 *	    OU=Gandi Standard SSL
+Jul 28 13:29:54 *	    CN=irc.rizon.net
+Jul 28 13:29:54 *	  Issuer:
+Jul 28 13:29:54 *	    C=FR
+Jul 28 13:29:54 *	    ST=Paris
+Jul 28 13:29:54 *	    L=Paris
+Jul 28 13:29:54 *	    O=Gandi
+Jul 28 13:29:54 *	    CN=Gandi Standard SSL CA 2
+Jul 28 13:29:54 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 28 13:29:54 *	  Sign algorithm sha256WithRSAEncryption
+Jul 28 13:29:54 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 28 13:29:54 *	* Cipher info:
+Jul 28 13:29:54 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 28 13:29:54 *	Connected. Now logging in.
+Jul 28 13:29:54 *	Please wait while we process your connection.
+Jul 28 13:29:54 *	*** Looking up your hostname...
+Jul 28 13:29:54 *	*** Checking Ident
+Jul 28 13:29:54 *	*** Couldn't look up your hostname
+Jul 28 13:29:55 *	*** No Ident response
+Jul 28 13:29:55 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 28 13:29:55 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 28 13:29:55 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 28 13:29:55 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 28 13:29:55 *	*** Your host is masked (CE76B2A8:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Thu Jul 28 13:29:55 2016
+
+**** BEGIN LOGGING AT Thu Jul 28 17:22:34 2016
+
+Jul 28 17:22:34 Checksum plugin loaded
+Jul 28 17:22:34 Perl interface loaded
+Jul 28 17:22:34 Python interface loaded
+Jul 28 17:22:34 Do At plugin loaded
+Jul 28 17:22:34 Sysinfo plugin loaded
+Jul 28 17:22:34 FiSHLiM plugin loaded
+Jul 28 17:22:34 AutoLoad failed for: /usr/lib/hexchat/plugins/lua.so
+Jul 28 17:22:34 liblua.so.5.3: cannot open shared object file: No such file or directory
+Jul 28 17:22:34 *	Looking up irc.rizon.net
+Jul 28 17:22:34 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Jul 28 17:22:35 *	* Certification info:
+Jul 28 17:22:35 *	  Subject:
+Jul 28 17:22:35 *	    OU=Domain Control Validated
+Jul 28 17:22:35 *	    OU=Gandi Standard SSL
+Jul 28 17:22:35 *	    CN=irc.rizon.net
+Jul 28 17:22:35 *	  Issuer:
+Jul 28 17:22:35 *	    C=FR
+Jul 28 17:22:35 *	    ST=Paris
+Jul 28 17:22:35 *	    L=Paris
+Jul 28 17:22:35 *	    O=Gandi
+Jul 28 17:22:35 *	    CN=Gandi Standard SSL CA 2
+Jul 28 17:22:35 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 28 17:22:35 *	  Sign algorithm sha256WithRSAEncryption
+Jul 28 17:22:35 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 28 17:22:35 *	* Cipher info:
+Jul 28 17:22:35 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 28 17:22:35 *	Connected. Now logging in.
+Jul 28 17:22:35 *	Please wait while we process your connection.
+Jul 28 17:22:35 *	*** Looking up your hostname...
+Jul 28 17:22:35 *	*** Checking Ident
+Jul 28 17:22:35 *	*** Couldn't look up your hostname
+Jul 28 17:22:37 *	*** No Ident response
+Jul 28 17:22:37 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 28 17:22:37 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 28 17:22:37 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 28 17:22:37 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 28 17:22:37 *	*** Your host is masked (386F103E:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Thu Jul 28 17:22:37 2016
+
+**** BEGIN LOGGING AT Sat Jul 30 17:00:33 2016
+
+Jul 30 17:00:33 Checksum plugin loaded
+Jul 30 17:00:33 Perl interface loaded
+Jul 30 17:00:33 Python interface loaded
+Jul 30 17:00:33 Do At plugin loaded
+Jul 30 17:00:33 Sysinfo plugin loaded
+Jul 30 17:00:33 FiSHLiM plugin loaded
+Jul 30 17:00:33 Lua version 1.3/5.3 loaded.
+Jul 30 17:00:33 *	Looking up irc.rizon.net
+Jul 30 17:00:33 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Jul 30 17:00:34 *	* Certification info:
+Jul 30 17:00:34 *	  Subject:
+Jul 30 17:00:34 *	    OU=Domain Control Validated
+Jul 30 17:00:34 *	    OU=Gandi Standard SSL
+Jul 30 17:00:34 *	    CN=irc.rizon.net
+Jul 30 17:00:34 *	  Issuer:
+Jul 30 17:00:34 *	    C=FR
+Jul 30 17:00:34 *	    ST=Paris
+Jul 30 17:00:34 *	    L=Paris
+Jul 30 17:00:34 *	    O=Gandi
+Jul 30 17:00:34 *	    CN=Gandi Standard SSL CA 2
+Jul 30 17:00:34 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 30 17:00:34 *	  Sign algorithm sha256WithRSAEncryption
+Jul 30 17:00:34 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 30 17:00:34 *	* Cipher info:
+Jul 30 17:00:34 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 30 17:00:34 *	Connected. Now logging in.
+Jul 30 17:00:34 *	Please wait while we process your connection.
+Jul 30 17:00:34 *	*** Looking up your hostname...
+Jul 30 17:00:34 *	*** Checking Ident
+Jul 30 17:00:34 *	*** Couldn't look up your hostname
+Jul 30 17:00:35 *	*** No Ident response
+Jul 30 17:00:35 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 30 17:00:35 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 30 17:00:35 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 30 17:00:35 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 30 17:00:35 *	*** Your host is masked (CE76B2A8:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Sat Jul 30 17:00:35 2016
+
+**** BEGIN LOGGING AT Sat Jul 30 17:29:23 2016
+
+Jul 30 17:29:23 Checksum plugin loaded
+Jul 30 17:29:23 Perl interface loaded
+Jul 30 17:29:23 Python interface loaded
+Jul 30 17:29:23 Do At plugin loaded
+Jul 30 17:29:23 Sysinfo plugin loaded
+Jul 30 17:29:23 FiSHLiM plugin loaded
+Jul 30 17:29:23 Lua version 1.3/5.3 loaded.
+Jul 30 17:29:23 *	Looking up irc.rizon.net
+Jul 30 17:29:23 *	Connecting to us.iso.rizon.net (2607:fcd0:daaa:600::10:6697)
+Jul 30 17:29:24 *	* Certification info:
+Jul 30 17:29:24 *	  Subject:
+Jul 30 17:29:24 *	    OU=Domain Control Validated
+Jul 30 17:29:24 *	    OU=Gandi Standard SSL
+Jul 30 17:29:24 *	    CN=irc.rizon.net
+Jul 30 17:29:24 *	  Issuer:
+Jul 30 17:29:24 *	    C=FR
+Jul 30 17:29:24 *	    ST=Paris
+Jul 30 17:29:24 *	    L=Paris
+Jul 30 17:29:24 *	    O=Gandi
+Jul 30 17:29:24 *	    CN=Gandi Standard SSL CA 2
+Jul 30 17:29:24 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 30 17:29:24 *	  Sign algorithm sha256WithRSAEncryption
+Jul 30 17:29:24 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 30 17:29:24 *	* Cipher info:
+Jul 30 17:29:24 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 30 17:29:24 *	Connected. Now logging in.
+Jul 30 17:29:24 *	Please wait while we process your connection.
+Jul 30 17:29:24 *	*** Looking up your hostname...
+Jul 30 17:29:24 *	*** Checking Ident
+Jul 30 17:29:24 *	*** Couldn't look up your hostname
+Jul 30 17:29:26 *	*** No Ident response
+Jul 30 17:29:26 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 30 17:29:26 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 30 17:29:26 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 30 17:29:26 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 30 17:29:26 *	*** Your host is masked (CE76B2A8:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Sat Jul 30 17:29:26 2016
+
+**** BEGIN LOGGING AT Sat Jul 30 17:31:59 2016
+
+Jul 30 17:31:59 Checksum plugin loaded
+Jul 30 17:31:59 Perl interface loaded
+Jul 30 17:31:59 Python interface loaded
+Jul 30 17:31:59 Do At plugin loaded
+Jul 30 17:31:59 Sysinfo plugin loaded
+Jul 30 17:31:59 FiSHLiM plugin loaded
+Jul 30 17:31:59 Lua version 1.3/5.3 loaded.
+Jul 30 17:31:59 *	Looking up irc.rizon.net
+Jul 30 17:32:00 *	Connecting to us.iso.rizon.net (2607:fcd0:daaa:600::10:6697)
+Jul 30 17:32:01 *	* Certification info:
+Jul 30 17:32:01 *	  Subject:
+Jul 30 17:32:01 *	    OU=Domain Control Validated
+Jul 30 17:32:01 *	    OU=Gandi Standard SSL
+Jul 30 17:32:01 *	    CN=irc.rizon.net
+Jul 30 17:32:01 *	  Issuer:
+Jul 30 17:32:01 *	    C=FR
+Jul 30 17:32:01 *	    ST=Paris
+Jul 30 17:32:01 *	    L=Paris
+Jul 30 17:32:01 *	    O=Gandi
+Jul 30 17:32:01 *	    CN=Gandi Standard SSL CA 2
+Jul 30 17:32:01 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 30 17:32:01 *	  Sign algorithm sha256WithRSAEncryption
+Jul 30 17:32:01 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 30 17:32:01 *	* Cipher info:
+Jul 30 17:32:01 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 30 17:32:01 *	Connected. Now logging in.
+Jul 30 17:32:01 *	Please wait while we process your connection.
+Jul 30 17:32:01 *	*** Looking up your hostname...
+Jul 30 17:32:01 *	*** Checking Ident
+Jul 30 17:32:01 *	*** Couldn't look up your hostname
+Jul 30 17:32:02 *	*** No Ident response
+Jul 30 17:32:02 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 30 17:32:02 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 30 17:32:02 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 30 17:32:02 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 30 17:32:02 *	*** Your host is masked (CE76B2A8:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Sat Jul 30 17:32:02 2016
+
+**** BEGIN LOGGING AT Sat Jul 30 17:44:34 2016
+
+Jul 30 17:44:34 Checksum plugin loaded
+Jul 30 17:44:34 Perl interface loaded
+Jul 30 17:44:34 Python interface loaded
+Jul 30 17:44:34 Do At plugin loaded
+Jul 30 17:44:34 Sysinfo plugin loaded
+Jul 30 17:44:34 FiSHLiM plugin loaded
+Jul 30 17:44:34 Lua version 1.3/5.3 loaded.
+Jul 30 17:44:34 *	Looking up irc.rizon.net
+Jul 30 17:44:34 *	Connecting to us.iso.rizon.net (2607:fcd0:daaa:600::10:6697)
+Jul 30 17:44:35 *	* Certification info:
+Jul 30 17:44:35 *	  Subject:
+Jul 30 17:44:35 *	    OU=Domain Control Validated
+Jul 30 17:44:35 *	    OU=Gandi Standard SSL
+Jul 30 17:44:35 *	    CN=irc.rizon.net
+Jul 30 17:44:35 *	  Issuer:
+Jul 30 17:44:35 *	    C=FR
+Jul 30 17:44:35 *	    ST=Paris
+Jul 30 17:44:35 *	    L=Paris
+Jul 30 17:44:35 *	    O=Gandi
+Jul 30 17:44:35 *	    CN=Gandi Standard SSL CA 2
+Jul 30 17:44:35 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 30 17:44:35 *	  Sign algorithm sha256WithRSAEncryption
+Jul 30 17:44:35 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 30 17:44:35 *	* Cipher info:
+Jul 30 17:44:35 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 30 17:44:35 *	Connected. Now logging in.
+Jul 30 17:44:35 *	Please wait while we process your connection.
+Jul 30 17:44:35 *	*** Looking up your hostname...
+Jul 30 17:44:35 *	*** Checking Ident
+Jul 30 17:44:35 *	*** Couldn't look up your hostname
+Jul 30 17:44:37 *	*** No Ident response
+Jul 30 17:44:37 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 30 17:44:37 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 30 17:44:37 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 30 17:44:37 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 30 17:44:37 *	*** Your host is masked (CE76B2A8:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Sat Jul 30 17:44:37 2016
+
+**** BEGIN LOGGING AT Sat Jul 30 17:51:07 2016
+
+Jul 30 17:51:07 Checksum plugin loaded
+Jul 30 17:51:07 Perl interface loaded
+Jul 30 17:51:07 Python interface loaded
+Jul 30 17:51:07 Do At plugin loaded
+Jul 30 17:51:07 Sysinfo plugin loaded
+Jul 30 17:51:07 FiSHLiM plugin loaded
+Jul 30 17:51:07 Lua version 1.3/5.3 loaded.
+Jul 30 17:51:07 *	Looking up irc.rizon.net
+Jul 30 17:51:07 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Jul 30 17:51:08 *	* Certification info:
+Jul 30 17:51:08 *	  Subject:
+Jul 30 17:51:08 *	    OU=Domain Control Validated
+Jul 30 17:51:08 *	    OU=Gandi Standard SSL
+Jul 30 17:51:08 *	    CN=irc.rizon.net
+Jul 30 17:51:08 *	  Issuer:
+Jul 30 17:51:08 *	    C=FR
+Jul 30 17:51:08 *	    ST=Paris
+Jul 30 17:51:08 *	    L=Paris
+Jul 30 17:51:08 *	    O=Gandi
+Jul 30 17:51:08 *	    CN=Gandi Standard SSL CA 2
+Jul 30 17:51:08 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 30 17:51:08 *	  Sign algorithm sha256WithRSAEncryption
+Jul 30 17:51:08 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 30 17:51:08 *	* Cipher info:
+Jul 30 17:51:08 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 30 17:51:08 *	Connected. Now logging in.
+Jul 30 17:51:08 *	Please wait while we process your connection.
+Jul 30 17:51:08 *	*** Looking up your hostname...
+Jul 30 17:51:08 *	*** Checking Ident
+Jul 30 17:51:08 *	*** Couldn't look up your hostname
+Jul 30 17:51:09 *	*** No Ident response
+Jul 30 17:51:09 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 30 17:51:09 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 30 17:51:09 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 30 17:51:09 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 30 17:51:09 *	*** Your host is masked (CE76B2A8:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Sat Jul 30 17:51:09 2016
+
+**** BEGIN LOGGING AT Sat Jul 30 18:04:37 2016
+
+Jul 30 18:04:37 Checksum plugin loaded
+Jul 30 18:04:37 Perl interface loaded
+Jul 30 18:04:37 Python interface loaded
+Jul 30 18:04:37 Do At plugin loaded
+Jul 30 18:04:37 Sysinfo plugin loaded
+Jul 30 18:04:37 FiSHLiM plugin loaded
+Jul 30 18:04:37 Lua version 1.3/5.3 loaded.
+Jul 30 18:04:37 *	Looking up irc.rizon.net
+Jul 30 18:04:37 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Jul 30 18:04:38 *	* Certification info:
+Jul 30 18:04:38 *	  Subject:
+Jul 30 18:04:38 *	    OU=Domain Control Validated
+Jul 30 18:04:38 *	    OU=Gandi Standard SSL
+Jul 30 18:04:38 *	    CN=irc.rizon.net
+Jul 30 18:04:38 *	  Issuer:
+Jul 30 18:04:38 *	    C=FR
+Jul 30 18:04:38 *	    ST=Paris
+Jul 30 18:04:38 *	    L=Paris
+Jul 30 18:04:38 *	    O=Gandi
+Jul 30 18:04:38 *	    CN=Gandi Standard SSL CA 2
+Jul 30 18:04:38 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 30 18:04:38 *	  Sign algorithm sha256WithRSAEncryption
+Jul 30 18:04:38 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 30 18:04:38 *	* Cipher info:
+Jul 30 18:04:38 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 30 18:04:38 *	Connected. Now logging in.
+Jul 30 18:04:38 *	Please wait while we process your connection.
+Jul 30 18:04:38 *	*** Looking up your hostname...
+Jul 30 18:04:38 *	*** Checking Ident
+Jul 30 18:04:38 *	*** Couldn't look up your hostname
+Jul 30 18:04:40 *	*** No Ident response
+Jul 30 18:04:40 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 30 18:04:40 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 30 18:04:40 *	aer :Register first.
+Jul 30 18:04:40 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 30 18:04:40 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 30 18:04:40 *	*** Your host is masked (CE76B2A8:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Sat Jul 30 18:04:40 2016
+
+**** BEGIN LOGGING AT Sat Jul 30 18:35:06 2016
+
+Jul 30 18:35:06 Checksum plugin loaded
+Jul 30 18:35:06 Perl interface loaded
+Jul 30 18:35:06 Python interface loaded
+Jul 30 18:35:06 Do At plugin loaded
+Jul 30 18:35:06 Sysinfo plugin loaded
+Jul 30 18:35:06 FiSHLiM plugin loaded
+Jul 30 18:35:06 Lua version 1.3/5.3 loaded.
+Jul 30 18:35:06 *	Looking up irc.rizon.net
+Jul 30 18:35:06 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Jul 30 18:35:07 *	* Certification info:
+Jul 30 18:35:07 *	  Subject:
+Jul 30 18:35:07 *	    OU=Domain Control Validated
+Jul 30 18:35:07 *	    OU=Gandi Standard SSL
+Jul 30 18:35:07 *	    CN=irc.rizon.net
+Jul 30 18:35:07 *	  Issuer:
+Jul 30 18:35:07 *	    C=FR
+Jul 30 18:35:07 *	    ST=Paris
+Jul 30 18:35:07 *	    L=Paris
+Jul 30 18:35:07 *	    O=Gandi
+Jul 30 18:35:07 *	    CN=Gandi Standard SSL CA 2
+Jul 30 18:35:07 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 30 18:35:07 *	  Sign algorithm sha256WithRSAEncryption
+Jul 30 18:35:07 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 30 18:35:07 *	* Cipher info:
+Jul 30 18:35:07 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 30 18:35:07 *	Connected. Now logging in.
+Jul 30 18:35:07 *	Please wait while we process your connection.
+Jul 30 18:35:07 *	*** Looking up your hostname...
+Jul 30 18:35:07 *	*** Checking Ident
+Jul 30 18:35:07 *	*** Couldn't look up your hostname
+Jul 30 18:35:09 *	*** No Ident response
+Jul 30 18:35:09 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 30 18:35:09 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 30 18:35:09 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 30 18:35:09 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 30 18:35:09 *	*** Your host is masked (CE76B2A8:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Sat Jul 30 18:35:09 2016
+
+**** BEGIN LOGGING AT Sat Jul 30 20:24:39 2016
+
+Jul 30 20:24:39 Checksum plugin loaded
+Jul 30 20:24:39 Perl interface loaded
+Jul 30 20:24:39 Python interface loaded
+Jul 30 20:24:39 Do At plugin loaded
+Jul 30 20:24:39 Sysinfo plugin loaded
+Jul 30 20:24:39 FiSHLiM plugin loaded
+Jul 30 20:24:39 Lua version 1.3/5.3 loaded.
+Jul 30 20:24:39 *	Looking up irc.rizon.net
+Jul 30 20:24:39 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Jul 30 20:24:40 *	* Certification info:
+Jul 30 20:24:40 *	  Subject:
+Jul 30 20:24:40 *	    OU=Domain Control Validated
+Jul 30 20:24:40 *	    OU=Gandi Standard SSL
+Jul 30 20:24:40 *	    CN=irc.rizon.net
+Jul 30 20:24:40 *	  Issuer:
+Jul 30 20:24:40 *	    C=FR
+Jul 30 20:24:40 *	    ST=Paris
+Jul 30 20:24:40 *	    L=Paris
+Jul 30 20:24:40 *	    O=Gandi
+Jul 30 20:24:40 *	    CN=Gandi Standard SSL CA 2
+Jul 30 20:24:40 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 30 20:24:40 *	  Sign algorithm sha256WithRSAEncryption
+Jul 30 20:24:40 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 30 20:24:40 *	* Cipher info:
+Jul 30 20:24:40 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 30 20:24:40 *	Connected. Now logging in.
+Jul 30 20:24:40 *	Please wait while we process your connection.
+Jul 30 20:24:40 *	*** Looking up your hostname...
+Jul 30 20:24:40 *	*** Checking Ident
+Jul 30 20:24:40 *	*** Couldn't look up your hostname
+Jul 30 20:24:41 *	*** No Ident response
+Jul 30 20:24:41 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 30 20:24:41 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 30 20:24:41 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 30 20:24:41 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 30 20:24:41 *	*** Your host is masked (CE76B2A8:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Sat Jul 30 20:24:41 2016
+
+**** BEGIN LOGGING AT Sat Jul 30 22:01:31 2016
+
+Jul 30 22:01:31 Checksum plugin loaded
+Jul 30 22:01:32 Perl interface loaded
+Jul 30 22:01:32 Python interface loaded
+Jul 30 22:01:32 Do At plugin loaded
+Jul 30 22:01:32 Sysinfo plugin loaded
+Jul 30 22:01:32 FiSHLiM plugin loaded
+Jul 30 22:01:32 Lua version 1.3/5.3 loaded.
+Jul 30 22:01:32 *	Looking up irc.rizon.net
+Jul 30 22:01:32 *	Connecting to us.iso.rizon.net (2607:fcd0:daaa:600::10:6697)
+Jul 30 22:01:33 *	* Certification info:
+Jul 30 22:01:33 *	  Subject:
+Jul 30 22:01:33 *	    OU=Domain Control Validated
+Jul 30 22:01:33 *	    OU=Gandi Standard SSL
+Jul 30 22:01:33 *	    CN=irc.rizon.net
+Jul 30 22:01:33 *	  Issuer:
+Jul 30 22:01:33 *	    C=FR
+Jul 30 22:01:33 *	    ST=Paris
+Jul 30 22:01:33 *	    L=Paris
+Jul 30 22:01:33 *	    O=Gandi
+Jul 30 22:01:33 *	    CN=Gandi Standard SSL CA 2
+Jul 30 22:01:33 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 30 22:01:33 *	  Sign algorithm sha256WithRSAEncryption
+Jul 30 22:01:33 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 30 22:01:33 *	* Cipher info:
+Jul 30 22:01:33 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 30 22:01:33 *	Connected. Now logging in.
+Jul 30 22:01:33 *	Please wait while we process your connection.
+Jul 30 22:01:33 *	*** Looking up your hostname...
+Jul 30 22:01:33 *	*** Checking Ident
+Jul 30 22:01:33 *	*** Couldn't look up your hostname
+Jul 30 22:01:34 *	*** No Ident response
+Jul 30 22:01:34 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 30 22:01:34 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 30 22:01:34 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 30 22:01:34 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 30 22:01:34 *	*** Your host is masked (CE76B2A8:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Sat Jul 30 22:01:34 2016
+
+**** BEGIN LOGGING AT Sun Jul 31 17:55:55 2016
+
+Jul 31 17:55:55 Checksum plugin loaded
+Jul 31 17:55:55 Perl interface loaded
+Jul 31 17:55:55 Python interface loaded
+Jul 31 17:55:55 Do At plugin loaded
+Jul 31 17:55:55 Sysinfo plugin loaded
+Jul 31 17:55:55 FiSHLiM plugin loaded
+Jul 31 17:55:55 Lua version 1.3/5.3 loaded.
+Jul 31 17:55:55 *	Looking up irc.rizon.net
+Jul 31 17:55:55 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Jul 31 17:55:56 *	* Certification info:
+Jul 31 17:55:56 *	  Subject:
+Jul 31 17:55:56 *	    OU=Domain Control Validated
+Jul 31 17:55:56 *	    OU=Gandi Standard SSL
+Jul 31 17:55:56 *	    CN=irc.rizon.net
+Jul 31 17:55:56 *	  Issuer:
+Jul 31 17:55:56 *	    C=FR
+Jul 31 17:55:56 *	    ST=Paris
+Jul 31 17:55:56 *	    L=Paris
+Jul 31 17:55:56 *	    O=Gandi
+Jul 31 17:55:56 *	    CN=Gandi Standard SSL CA 2
+Jul 31 17:55:56 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 31 17:55:56 *	  Sign algorithm sha256WithRSAEncryption
+Jul 31 17:55:56 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 31 17:55:56 *	* Cipher info:
+Jul 31 17:55:56 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 31 17:55:56 *	Connected. Now logging in.
+Jul 31 17:55:56 *	Please wait while we process your connection.
+Jul 31 17:55:56 *	*** Looking up your hostname...
+Jul 31 17:55:56 *	*** Checking Ident
+Jul 31 17:55:56 *	*** Couldn't look up your hostname
+Jul 31 17:55:57 *	*** No Ident response
+Jul 31 17:55:57 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 31 17:55:57 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 31 17:55:57 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 31 17:55:57 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 31 17:55:57 *	*** Your host is masked (DD26BD60:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Sun Jul 31 17:55:57 2016
+
+**** BEGIN LOGGING AT Sun Jul 31 18:25:50 2016
+
+Jul 31 18:25:50 Checksum plugin loaded
+Jul 31 18:25:50 Perl interface loaded
+Jul 31 18:25:50 Python interface loaded
+Jul 31 18:25:50 Do At plugin loaded
+Jul 31 18:25:50 Sysinfo plugin loaded
+Jul 31 18:25:50 FiSHLiM plugin loaded
+Jul 31 18:25:50 Lua version 1.3/5.3 loaded.
+Jul 31 18:25:50 *	Looking up irc.rizon.net
+Jul 31 18:25:50 *	Connecting to us.iso.rizon.net (2607:fcd0:daaa:600::10:6697)
+Jul 31 18:25:51 *	* Certification info:
+Jul 31 18:25:51 *	  Subject:
+Jul 31 18:25:51 *	    OU=Domain Control Validated
+Jul 31 18:25:51 *	    OU=Gandi Standard SSL
+Jul 31 18:25:51 *	    CN=irc.rizon.net
+Jul 31 18:25:51 *	  Issuer:
+Jul 31 18:25:51 *	    C=FR
+Jul 31 18:25:51 *	    ST=Paris
+Jul 31 18:25:51 *	    L=Paris
+Jul 31 18:25:51 *	    O=Gandi
+Jul 31 18:25:51 *	    CN=Gandi Standard SSL CA 2
+Jul 31 18:25:51 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 31 18:25:51 *	  Sign algorithm sha256WithRSAEncryption
+Jul 31 18:25:51 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 31 18:25:51 *	* Cipher info:
+Jul 31 18:25:51 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 31 18:25:51 *	Connected. Now logging in.
+Jul 31 18:25:51 *	Please wait while we process your connection.
+Jul 31 18:25:51 *	*** Looking up your hostname...
+Jul 31 18:25:51 *	*** Checking Ident
+Jul 31 18:25:51 *	*** Couldn't look up your hostname
+Jul 31 18:25:52 *	*** No Ident response
+Jul 31 18:25:52 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 31 18:25:52 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 31 18:25:52 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 31 18:25:52 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 31 18:25:52 *	*** Your host is masked (DD26BD60:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Sun Jul 31 18:25:52 2016
+
+**** BEGIN LOGGING AT Tue Aug  2 20:30:32 2016
+
+Aug 02 20:30:32 Checksum plugin loaded
+Aug 02 20:30:32 Perl interface loaded
+Aug 02 20:30:32 Python interface loaded
+Aug 02 20:30:32 Do At plugin loaded
+Aug 02 20:30:32 Sysinfo plugin loaded
+Aug 02 20:30:32 FiSHLiM plugin loaded
+Aug 02 20:30:32 Lua version 1.3/5.3 loaded.
+Aug 02 20:30:32 *	Looking up irc.rizon.net
+Aug 02 20:30:32 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Aug 02 20:30:33 *	* Certification info:
+Aug 02 20:30:33 *	  Subject:
+Aug 02 20:30:33 *	    OU=Domain Control Validated
+Aug 02 20:30:33 *	    OU=Gandi Standard SSL
+Aug 02 20:30:33 *	    CN=irc.rizon.net
+Aug 02 20:30:33 *	  Issuer:
+Aug 02 20:30:33 *	    C=FR
+Aug 02 20:30:33 *	    ST=Paris
+Aug 02 20:30:33 *	    L=Paris
+Aug 02 20:30:33 *	    O=Gandi
+Aug 02 20:30:33 *	    CN=Gandi Standard SSL CA 2
+Aug 02 20:30:33 *	  Public key algorithm: rsaEncryption (2048 bits)
+Aug 02 20:30:33 *	  Sign algorithm sha256WithRSAEncryption
+Aug 02 20:30:33 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Aug 02 20:30:33 *	* Cipher info:
+Aug 02 20:30:33 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Aug 02 20:30:33 *	Connected. Now logging in.
+Aug 02 20:30:33 *	Please wait while we process your connection.
+Aug 02 20:30:33 *	*** Looking up your hostname...
+Aug 02 20:30:33 *	*** Checking Ident
+Aug 02 20:30:33 *	*** Couldn't look up your hostname
+Aug 02 20:30:34 *	*** No Ident response
+Aug 02 20:30:34 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Aug 02 20:30:34 *	Capabilities requested: multi-prefix userhost-in-names 
+Aug 02 20:30:34 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Aug 02 20:30:35 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Aug 02 20:30:35 *	*** Your host is masked (DD26BD60:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Tue Aug  2 20:30:35 2016
+
+**** BEGIN LOGGING AT Tue Aug  2 21:34:41 2016
+
+Aug 02 21:34:41 Checksum plugin loaded
+Aug 02 21:34:41 Perl interface loaded
+Aug 02 21:34:41 Python interface loaded
+Aug 02 21:34:41 Do At plugin loaded
+Aug 02 21:34:41 Sysinfo plugin loaded
+Aug 02 21:34:41 FiSHLiM plugin loaded
+Aug 02 21:34:41 Lua version 1.3/5.3 loaded.
+Aug 02 21:34:41 *	Looking up irc.rizon.net
+Aug 02 21:34:41 *	Connecting to us.iso.rizon.net (2607:f128:22:3133:312:18:313:11b2:6697)
+Aug 02 21:34:42 *	* Certification info:
+Aug 02 21:34:42 *	  Subject:
+Aug 02 21:34:42 *	    OU=Domain Control Validated
+Aug 02 21:34:42 *	    OU=Gandi Standard SSL
+Aug 02 21:34:42 *	    CN=irc.rizon.net
+Aug 02 21:34:42 *	  Issuer:
+Aug 02 21:34:42 *	    C=FR
+Aug 02 21:34:42 *	    ST=Paris
+Aug 02 21:34:42 *	    L=Paris
+Aug 02 21:34:42 *	    O=Gandi
+Aug 02 21:34:42 *	    CN=Gandi Standard SSL CA 2
+Aug 02 21:34:42 *	  Public key algorithm: rsaEncryption (2048 bits)
+Aug 02 21:34:42 *	  Sign algorithm sha256WithRSAEncryption
+Aug 02 21:34:42 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Aug 02 21:34:42 *	* Cipher info:
+Aug 02 21:34:42 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Aug 02 21:34:42 *	Connected. Now logging in.
+Aug 02 21:34:42 *	Please wait while we process your connection.
+Aug 02 21:34:42 *	*** Looking up your hostname...
+Aug 02 21:34:42 *	*** Checking Ident
+Aug 02 21:34:42 *	*** Couldn't look up your hostname
+Aug 02 21:34:43 *	*** No Ident response
+Aug 02 21:34:43 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Aug 02 21:34:43 *	Capabilities requested: multi-prefix userhost-in-names 
+Aug 02 21:34:43 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Aug 02 21:34:43 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Aug 02 21:34:43 *	*** Your host is masked (DD26BD60:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Tue Aug  2 21:34:43 2016
+
+**** BEGIN LOGGING AT Tue Aug  2 21:43:28 2016
+
+Aug 02 21:43:28 Checksum plugin loaded
+Aug 02 21:43:28 Perl interface loaded
+Aug 02 21:43:28 Python interface loaded
+Aug 02 21:43:28 Do At plugin loaded
+Aug 02 21:43:28 Sysinfo plugin loaded
+Aug 02 21:43:28 FiSHLiM plugin loaded
+Aug 02 21:43:28 Lua version 1.3/5.3 loaded.
+Aug 02 21:43:28 *	Looking up irc.rizon.net
+Aug 02 21:43:28 *	Connecting to us.iso.rizon.net (2607:fcd0:daaa:600::10:6697)
+Aug 02 21:43:29 *	* Certification info:
+Aug 02 21:43:29 *	  Subject:
+Aug 02 21:43:29 *	    OU=Domain Control Validated
+Aug 02 21:43:29 *	    OU=Gandi Standard SSL
+Aug 02 21:43:29 *	    CN=irc.rizon.net
+Aug 02 21:43:29 *	  Issuer:
+Aug 02 21:43:29 *	    C=FR
+Aug 02 21:43:29 *	    ST=Paris
+Aug 02 21:43:29 *	    L=Paris
+Aug 02 21:43:29 *	    O=Gandi
+Aug 02 21:43:29 *	    CN=Gandi Standard SSL CA 2
+Aug 02 21:43:29 *	  Public key algorithm: rsaEncryption (2048 bits)
+Aug 02 21:43:29 *	  Sign algorithm sha256WithRSAEncryption
+Aug 02 21:43:29 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Aug 02 21:43:29 *	* Cipher info:
+Aug 02 21:43:29 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Aug 02 21:43:29 *	Connected. Now logging in.
+Aug 02 21:43:29 *	Please wait while we process your connection.
+Aug 02 21:43:29 *	*** Looking up your hostname...
+Aug 02 21:43:29 *	*** Checking Ident
+Aug 02 21:43:29 *	*** Couldn't look up your hostname
+Aug 02 21:43:30 *	*** No Ident response
+Aug 02 21:43:30 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Aug 02 21:43:30 *	Capabilities requested: multi-prefix userhost-in-names 
+Aug 02 21:43:31 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Aug 02 21:43:31 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Aug 02 21:43:31 *	*** Your host is masked (DD26BD60:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Tue Aug  2 21:43:31 2016
+
+**** BEGIN LOGGING AT Thu Aug 11 21:59:31 2016
+
+Aug 11 21:59:31 Checksum plugin loaded
+Aug 11 21:59:31 Perl interface loaded
+Aug 11 21:59:31 Python interface loaded
+Aug 11 21:59:31 Do At plugin loaded
+Aug 11 21:59:31 Sysinfo plugin loaded
+Aug 11 21:59:31 FiSHLiM plugin loaded
+Aug 11 21:59:31 Lua version 1.3/5.3 loaded.
+Aug 11 21:59:31 *	Looking up irc.rizon.net
+Aug 11 21:59:31 *	Connecting to us.iso.rizon.net (2607:fcd0:daaa:600::10:6697)
+Aug 11 21:59:32 *	* Certification info:
+Aug 11 21:59:32 *	  Subject:
+Aug 11 21:59:32 *	    OU=Domain Control Validated
+Aug 11 21:59:32 *	    OU=Gandi Standard SSL
+Aug 11 21:59:32 *	    CN=irc.rizon.net
+Aug 11 21:59:32 *	  Issuer:
+Aug 11 21:59:32 *	    C=FR
+Aug 11 21:59:32 *	    ST=Paris
+Aug 11 21:59:32 *	    L=Paris
+Aug 11 21:59:32 *	    O=Gandi
+Aug 11 21:59:32 *	    CN=Gandi Standard SSL CA 2
+Aug 11 21:59:32 *	  Public key algorithm: rsaEncryption (2048 bits)
+Aug 11 21:59:32 *	  Sign algorithm sha256WithRSAEncryption
+Aug 11 21:59:32 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Aug 11 21:59:32 *	* Cipher info:
+Aug 11 21:59:32 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Aug 11 21:59:32 *	Connected. Now logging in.
+Aug 11 21:59:32 *	Please wait while we process your connection.
+Aug 11 21:59:32 *	*** Looking up your hostname...
+Aug 11 21:59:32 *	*** Checking Ident
+Aug 11 21:59:32 *	*** Couldn't look up your hostname
+Aug 11 21:59:34 *	*** No Ident response
+Aug 11 21:59:34 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Aug 11 21:59:34 *	Capabilities requested: multi-prefix userhost-in-names 
+Aug 11 21:59:35 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Aug 11 21:59:35 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Aug 11 21:59:35 *	*** Your host is masked (DD26BD60:36F4FD5E:3BFB3BC5:IP)
+**** ENDING LOGGING AT Thu Aug 11 21:59:35 2016
+

@@ -1,0 +1,20 @@
+**** BEGIN LOGGING AT Wed Jul 27 11:49:48 2016
+
+Jul 27 11:49:48 *	Connecting to us.iso.rizon.net (2607:fcd0:daaa:600::10:6697)
+Jul 27 11:49:49 *	* Certification info:
+Jul 27 11:49:49 *	  Subject:
+Jul 27 11:49:49 *	    OU=Domain Control Validated
+Jul 27 11:49:49 *	    OU=Gandi Standard SSL
+Jul 27 11:49:49 *	    CN=irc.rizon.net
+Jul 27 11:49:49 *	  Issuer:
+Jul 27 11:49:49 *	    C=FR
+Jul 27 11:49:49 *	    ST=Paris
+Jul 27 11:49:49 *	    L=Paris
+Jul 27 11:49:49 *	    O=Gandi
+Jul 27 11:49:49 *	    CN=Gandi Standard SSL CA 2
+Jul 27 11:49:49 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 27 11:49:49 *	  Sign algorithm sha256WithRSAEncryption
+Jul 27 11:49:49 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 27 11:49:49 *	* Cipher info:
+Jul 27 11:49:49 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 27 11:49:49 *	Connected. Now logging in.

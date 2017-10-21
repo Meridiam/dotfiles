@@ -1,0 +1,918 @@
+**** BEGIN LOGGING AT Wed Jul 27 11:49:58 2016
+
+Jul 27 11:49:58 *	Now talking on #nanodesu
+Jul 27 11:49:58 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 27 11:49:58 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 17:34:33 2016)
+Jul 27 11:50:04 *	aer sets mode +r on aer
+Jul 27 11:50:04 -NickServ-	Password accepted - you are now recognized.
+Jul 27 11:50:04 -HostServ-	Your vhost of whoosh.insubstantial is now activated.
+Jul 27 11:50:04 *	Onee-chan gives channel operator status to aer
+Jul 27 11:50:22 <aer>	$log
+Jul 27 11:50:24 <Muse-chan>	http://muse-chan.flu.cc/irclog/138
+Jul 27 11:51:44 <kef>	fml i've gone to chipotle like 8 times this month already but i didn't sign up for ctitopia
+Jul 27 11:52:08 <kef>	chiptopia
+**** BEGIN LOGGING AT Wed Jul 27 19:16:47 2016
+
+Jul 27 19:16:47 *	Now talking on #nanodesu
+Jul 27 19:16:47 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 27 19:16:47 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 27 19:17:02 -NickServ-	Your nickname is now being changed to Guest63101
+Jul 27 19:17:02 *	You are now known as Guest63101
+Jul 27 19:17:16 *	You are now known as aer_
+**** ENDING LOGGING AT Wed Jul 27 19:18:38 2016
+
+**** BEGIN LOGGING AT Wed Jul 27 19:19:20 2016
+
+Jul 27 19:19:20 *	Now talking on #nanodesu
+Jul 27 19:19:20 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 27 19:19:20 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 27 19:19:20 <Onee-chan>	[Aer] whoosh~
+Jul 27 19:19:20 *	Onee-chan gives channel operator status to aer
+**** BEGIN LOGGING AT Thu Jul 28 13:30:05 2016
+
+Jul 28 13:30:05 *	Now talking on #nanodesu
+Jul 28 13:30:05 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 28 13:30:05 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 28 13:30:06 <Onee-chan>	[Aer] whoosh~
+Jul 28 13:30:06 *	Onee-chan gives channel operator status to aer
+Jul 28 13:31:49 *	Byr (~Sumguy@A4DD423B.4AD26716.9DE0377E.IP) has joined
+Jul 28 13:35:42 <aer>	mitya could you think of a reason why a laptop running on systemd linux wouldn't be able to recover from suspend to ram?
+Jul 28 13:35:58 <mitya>	No
+Jul 28 13:36:31 <aer>	welp time to keep digging through google then :(
+Jul 28 13:39:27 <aer>	$log
+Jul 28 13:39:29 <Muse-chan>	http://muse-chan.flu.cc/irclog/147
+Jul 28 13:44:36 <aer>	$settimezone -4
+Jul 28 13:44:36 <Muse-chan>	Timezone set to -4.0, remember to update this when DST starts/ends!
+Jul 28 13:52:24 <aer>	mitya do you run an antivirus on linux?
+Jul 28 13:52:59 <mitya>	No
+Jul 28 13:53:03 <mitya>	Why would you
+Jul 28 13:53:04 *	JacobSwaggedUp (~JacobSwag@JacobSwaggedUp.is.not.so.swaggedup) has joined
+**** ENDING LOGGING AT Thu Jul 28 13:53:08 2016
+
+**** BEGIN LOGGING AT Thu Jul 28 13:53:08 2016
+
+Jul 28 13:53:42 <aer>	i installed a bunch of packages from a user repository and couldnt be bothered to check the source code
+Jul 28 13:53:51 <aer>	now im slightly worried
+Jul 28 13:54:31 <mitya>	Which?
+Jul 28 13:54:35 <aer>	aur
+Jul 28 13:56:19 <mitya>	AUR is normally pretty reliable
+Jul 28 13:56:23 <mitya>	What package
+Jul 28 13:56:28 <mitya>	(s)
+Jul 28 13:56:39 <aer>	a lot
+Jul 28 13:56:43 <mitya>	Rip
+Jul 28 13:56:55 <aer>	do you think a firewall would be enough
+Jul 28 13:57:48 <aer>	for most threats
+Jul 28 13:59:41 <mitya>	More than. Like I said, I haven't even had the thought of a virus in linux
+Jul 28 14:00:24 <aer>	alright thnx~
+Jul 28 14:13:15 *	hikaslap (~hika@mottainai.yo) has joined
+Jul 28 14:13:15 *	Onee-chan sets mode +a on #nanodesu hikaslap
+Jul 28 14:13:15 *	Onee-chan gives channel operator status to hikaslap
+Jul 28 14:27:26 *	Yurippe is now known as Kan[a]de
+Jul 28 14:28:06 *	Kan[a]de is now known as Yurippe
+Jul 28 14:30:13 *	nanodesu (~nanodesu@E918D975.EE105D9A.CF1F3E48.IP) has joined
+Jul 28 14:30:14 *	Onee-chan sets mode +q on #nanodesu nanodesu
+Jul 28 14:30:14 *	Onee-chan gives channel operator status to nanodesu
+Jul 28 14:38:21 *	nanodesu has quit (Ping timeout: 240 seconds)
+Jul 28 14:45:27 <mitya>	aer, any luck?
+Jul 28 14:48:07 *	thirteenthspiral (~qwebirc@Rizon-297449B7.rochester.res.rr.com) has joined
+Jul 28 14:48:29 <mitya>	Hi thirteenthspiral
+Jul 28 14:48:37 <thirteenthspiral>	Hiya
+Jul 28 14:48:48 <mitya>	How's it going
+Jul 28 14:49:09 <thirteenthspiral>	Alright. Been lazing around these past couple days. You?
+Jul 28 14:49:59 <mitya>	Alright. I've been working all summer preparing for my move next week
+Jul 28 14:50:39 <thirteenthspiral>	Oh nice
+Jul 28 14:51:41 <mitya>	Yeah, I've got a long drive ahead of me
+Jul 28 14:55:16 <thirteenthspiral>	How far?
+Jul 28 14:55:36 <mitya>	Uh I think 1400 miles
+Jul 28 14:55:44 <mitya>	Florida to Connecticut
+Jul 28 14:56:42 <mitya>	1300 miles upon checking
+Jul 28 15:07:41 *	sidolino (~sidolino@Rizon-CF262F34.dynamic.kabel-deutschland.de) has joined
+Jul 28 15:08:00 <aer>	went through source for 5 packages, didn't find anything suspicious, so just set up firestarter (ironically also an AUR package) as a firewall solution 
+Jul 28 15:08:03 <sidolino>	hi
+Jul 28 15:09:47 <aer>	@mitya tbh all the packages i installed were relatively well-maintained and widely used so it's probably overkill at that
+Jul 28 15:10:22 <mitya>	Sounds like it but if it makes you feel better then no loss
+Jul 28 15:11:03 <aer>	still have this problem where after i suspend to ram i can't get back into the environment though
+Jul 28 15:12:08 <mitya>	That's a somewhat common issue people have though
+Jul 28 15:12:13 <aer>	really?
+Jul 28 15:12:20 <mitya>	Weird behavior after suspend
+Jul 28 15:12:44 <aer>	but then what do people who use linux on their laptops do 
+Jul 28 15:13:49 <aer>	im guessing the solution is to just not suspend when closing the lid, but it helps conserve battery
+Jul 28 15:13:50 <mitya>	Do you use dpms
+Jul 28 15:13:54 <aer>	dpms?
+Jul 28 15:14:14 <mitya>	Display power management signaling
+Jul 28 15:14:16 <thirteenthspiral>	That's a long drive wow. Sorry for late response
+Jul 28 15:14:20 <mitya>	No problem
+Jul 28 15:15:06 <aer>	i don't use dpms
+Jul 28 15:15:18 <aer>	so the screen just turns off after a while
+Jul 28 15:15:27 <mitya>	And doesn't turn back on
+Jul 28 15:15:33 <aer>	it does
+Jul 28 15:15:37 <aer>	just when i close the lid
+Jul 28 15:15:38 <mitya>	Oh
+Jul 28 15:15:39 <aer>	it suspends to ram
+Jul 28 15:15:47 <mitya>	Do you know what controls that
+Jul 28 15:15:48 <aer>	i can disable that but i like saving power
+Jul 28 15:16:08 <aer>	i saw a forum post about it an hour ago, ill go and check
+Jul 28 15:16:46 <aer>	ok so it's a systemd config file
+Jul 28 15:16:49 <thirteenthspiral>	Does anyone know what the results of the poll was? I can't tell if the current results are real or not, since it's been over a week since it actually closed.
+Jul 28 15:17:03 <aer>	didnt it close on the 27th
+Jul 28 15:17:23 <aer>	"HandleLidSwitch=ignore"
+Jul 28 15:17:50 <aer>	in /etc/systemd/logind.conf
+Jul 28 15:18:14 <thirteenthspiral>	I thought it said the 20th- oh misread it. The 25th
+Jul 28 15:18:18 <aer>	i just wish there was a way to make suspend work properly 
+Jul 28 15:18:40 <thirteenthspiral>	Still a few days. Is Inou-Battle most likely one of the winners then?
+Jul 28 15:18:42 <aer>	looks like musaigen topped the polls
+Jul 28 15:19:34 <mitya>	Using dpms was favorable for me before.
+Jul 28 15:19:50 <mitya>	But it made my headphones' sound not work on return
+Jul 28 15:20:05 <aer>	does it handle recovering from suspend?
+Jul 28 15:20:16 <aer>	meh thats not that big of a deal for me
+Jul 28 15:21:39 <thirteenthspiral>	I was disappointed that there was never a second season of Inou-Battle. It was so good by the end.
+Jul 28 15:21:52 <thirteenthspiral>	Same with Grimgar.
+Jul 28 15:22:29 *	hikaslap has quit (Ping timeout: 240 seconds)
+Jul 28 15:22:32 <aer>	ew recent anime
+Jul 28 15:22:59 <thirteenthspiral>	Come on, some recent anime are really good.
+Jul 28 15:24:24 *	hikaslap (~hika@mottainai.yo) has joined
+Jul 28 15:24:24 *	Onee-chan sets mode +a on #nanodesu hikaslap
+Jul 28 15:24:24 *	Onee-chan gives channel operator status to hikaslap
+Jul 28 15:24:26 <aer>	i prefer the classics, like boku no pico
+Jul 28 15:24:29 *	Seaofskies (uid165610@Rizon-55B5E3C4.tooting.irccloud.com) has joined
+Jul 28 15:24:43 <aer>	i doubt any recent anime could measure up to that level of production quality
+Jul 28 15:25:24 <thirteenthspiral>	I prefer Boku no Piccolo
+Jul 28 15:25:46 <thirteenthspiral>	http://i2.kym-cdn.com/photos/images/original/000/964/685/b50.jpg
+Jul 28 15:25:56 <aer>	oh god
+Jul 28 15:25:58 <aer>	not nsfw
+Jul 28 15:26:19 <aer>	now i have to clear my browser history
+Jul 28 15:26:22 <thirteenthspiral>	Oh wow, Goku no Piccolo- damn, should've said that earlier.
+Jul 28 15:27:20 <aer>	another one of my all time favorite anime is cory in the house
+Jul 28 15:28:09 <thirteenthspiral>	I *love* the opening to that anime
+Jul 28 15:28:14 <thirteenthspiral>	Have you seen it?
+Jul 28 15:28:39 <thirteenthspiral>	https://www.youtube.com/watch?v=sPbtlFVV3X0 link to it
+Jul 28 15:28:42 <aer>	dub or sub?
+Jul 28 15:29:30 <aer>	i believe you mean this: https://www.youtube.com/watch?v=PcG79IVMf00
+Jul 28 15:29:41 <aer>	the season one opening 
+Jul 28 15:29:59 <thirteenthspiral>	I forgot the dubbed version had a different one.
+Jul 28 15:30:57 <aer>	psssh only the uninitiated would make that mistake
+Jul 28 15:31:19 <thirteenthspiral>	I'm sorry, I'm new :'(
+Jul 28 15:31:46 <aer>	it's okay, just tell mitya to send you a list of the most influential anime
+Jul 28 15:32:06 <aer>	watch those and you'll fit right in
+Jul 28 15:32:13 <thirteenthspiral>	Couldn't I just go on myanimelist though
+Jul 28 15:32:29 *	thirteenthspiral slaps thirteenthspiral around a bit with a large fishbot
+Jul 28 15:32:34 <thirteenthspiral>	Oh nice.
+Jul 28 15:32:39 <aer>	you see
+Jul 28 15:32:45 <aer>	even you realize the folly of that statement
+Jul 28 15:32:48 <mitya>	Wat
+Jul 28 15:32:57 <thirteenthspiral>	Mitya, the list, please.
+Jul 28 15:33:02 <aer>	yes 
+Jul 28 15:33:04 <mitya>	Uh
+Jul 28 15:33:15 <mitya>	I watched some things last season
+Jul 28 15:33:20 <mitya>	Kiznaiver was super emotional
+Jul 28 15:33:42 <thirteenthspiral>	I liked that a lot too.
+Jul 28 15:33:44 <mitya>	Kabaneri no Koutetsujou was good fighting but weak plot ( I still mostly enjoyed it)
+Jul 28 15:33:51 <thirteenthspiral>	Ending was a bit meh
+Jul 28 15:34:13 <mitya>	Netoge no yome..... Was really cute and nostalgic for a former mmo player
+Jul 28 15:34:32 <thirteenthspiral>	Is that the one with the "I hate normies" girl
+Jul 28 15:34:38 <mitya>	Yes
+Jul 28 15:34:40 <mitya>	Ako best girl
+Jul 28 15:34:45 <thirteenthspiral>	I couldn't get into it sadly
+Jul 28 15:35:07 <mitya>	Big Order was alright. If you liked mirai nikki you might like it
+Jul 28 15:35:17 <mitya>	Same author
+Jul 28 15:35:23 <thirteenthspiral>	Big Order I dropped after the sister/father fight episode
+Jul 28 15:35:37 <mitya>	There were several notable SoL anime last season
+Jul 28 15:35:44 <mitya>	Not my thing tho
+Jul 28 15:35:49 <thirteenthspiral>	Joker Game was pretty nice. I still need to watch the last couple episodes.
+Jul 28 15:36:05 <mitya>	Re:Zero prob one of the best
+Jul 28 15:36:08 <mitya>	Still ongoing tho
+Jul 28 15:36:17 <thirteenthspiral>	I agree.
+Jul 28 15:36:23 <mitya>	This season there's s4 prisma illya
+Jul 28 15:36:25 <thirteenthspiral>	Have you seen Rakugo?
+Jul 28 15:36:37 <mitya>	And D. gray-man gets something again finally
+Jul 28 15:36:45 <thirteenthspiral>	I never read/watched Fate.
+Jul 28 15:36:46 <mitya>	I have so much nostalgia with that series
+Jul 28 15:36:53 <mitya>	Fate is really good imo
+Jul 28 15:37:04 <thirteenthspiral>	Yeah, I finally am watching the series. I tried to a long time ago but couldn't (D. Gray-man)
+Jul 28 15:37:29 <thirteenthspiral>	I really hope the new series has really good animation.
+Jul 28 15:38:03 <mitya>	Which?
+Jul 28 15:38:07 <thirteenthspiral>	Hallow
+Jul 28 15:38:17 <thirteenthspiral>	Hollow, I think I mispelled it
+Jul 28 15:38:25 <thirteenthspiral>	Aw crap my spelling is terrible today
+Jul 28 15:38:29 <mitya>	Ah. I haven't seen any anime this season yet tbh
+Jul 28 15:38:38 <mitya>	Been too busy with real life
+Jul 28 15:38:42 <thirteenthspiral>	No? Did you see Bungo Stray Dogs last season?
+Jul 28 15:38:43 <mitya>	And coding a bit too
+Jul 28 15:38:59 <mitya>	I didn't watch it but I heard it was really gay
+Jul 28 15:39:02 <mitya>	Literally
+Jul 28 15:39:07 <thirteenthspiral>	What? Not even.
+Jul 28 15:39:21 <thirteenthspiral>	It was one of the best series that season.
+Jul 28 15:40:51 <mitya>	I didn't like the look of the art so I didn't bother
+Jul 28 15:41:03 <thirteenthspiral>	You should try it out honestly.
+Jul 28 15:41:39 <thirteenthspiral>	It's not like Free, if that's what you are worried about. It's more shounen than shounen ai.
+Jul 28 15:42:02 <thirteenthspiral>	And it's not like an otome either.
+Jul 28 15:50:46 <aer>	thirteenthspiral let me introduce you to one of the best features on this irc
+Jul 28 15:50:50 <aer>	.trivia
+Jul 28 15:50:50 <Trivia>	Starting round of trivia. Questions: 100
+Jul 28 15:50:50 <Muse-chan>	SpamGuard: Trivia detected. All commands and logging are now blocked.
+Jul 28 15:50:55 <Trivia>	1. Category: Literature : How many plays is Shakespeare generally credited with today?
+Jul 28 15:51:04 <Trivia>	Hint: **
+Jul 28 15:51:06 <aer>	10
+Jul 28 15:51:07 <aer>	1
+Jul 28 15:51:08 <aer>	11
+Jul 28 15:51:08 <aer>	12
+Jul 28 15:51:09 <aer>	13
+Jul 28 15:51:09 <aer>	14
+Jul 28 15:51:09 <aer>	15
+Jul 28 15:51:10 <aer>	16
+Jul 28 15:51:11 <aer>	1
+Jul 28 15:51:14 <aer>	17
+Jul 28 15:51:14 <aer>	18
+Jul 28 15:51:14 <Trivia>	Hint: 3*
+Jul 28 15:51:15 <aer>	19
+Jul 28 15:51:16 <aer>	31
+Jul 28 15:51:17 <aer>	30
+Jul 28 15:51:17 <aer>	32
+Jul 28 15:51:18 <aer>	33
+Jul 28 15:51:19 <aer>	34
+Jul 28 15:51:19 <aer>	35
+Jul 28 15:51:20 <aer>	36
+Jul 28 15:51:20 <aer>	37
+Jul 28 15:51:21 <aer>	38
+Jul 28 15:51:21 <aer>	39
+Jul 28 15:51:34 <Trivia>	Hint: 3*
+Jul 28 15:51:39 <Trivia>	Winner: aer; Answer: 37; Time: 44.449s; Streak: 1; Points: 1; Total: 5825
+Jul 28 15:51:45 <Trivia>	2. TV Film and Stage : Naked ___?
+Jul 28 15:51:55 <mitya>	and Afraid
+Jul 28 15:51:55 <Trivia>	Hint: ***
+Jul 28 15:51:58 <mitya>	man
+Jul 28 15:52:01 <aer>	lol
+Jul 28 15:52:02 <mitya>	Gut
+Jul 28 15:52:05 <mitya>	Guy
+Jul 28 15:52:05 <Trivia>	Hint: G**
+Jul 28 15:52:08 <mitya>	gay
+Jul 28 15:52:10 <aer>	gun
+Jul 28 15:52:10 <Trivia>	Winner: aer; Answer: Gun; Time: 24.934s; Streak: 2; Points: 4; Total: 5829
+Jul 28 15:52:12 <aer>	wow
+Jul 28 15:52:15 <mitya>	ah
+Jul 28 15:52:17 <Trivia>	3. Pot Luck : What rock makes the cheapest softest form of sandpaper?
+Jul 28 15:52:22 <aer>	quartz
+Jul 28 15:52:26 <aer>	sandrock
+Jul 28 15:52:26 <Trivia>	Hint: f****
+Jul 28 15:52:28 <mitya>	granite
+Jul 28 15:52:36 <Trivia>	Hint: fl***
+Jul 28 15:52:37 <mitya>	flint
+Jul 28 15:52:37 <Trivia>	Winner: mitya; Answer: flint; Time: 20.865s; Streak: 1; Points: 2; Total: 46
+Jul 28 15:52:43 <aer>	did i really type sandrock
+Jul 28 15:52:43 <Trivia>	4. Pot Luck : What is Radio Shacks main brand name?
+Jul 28 15:52:51 <mitya>	Radioshack
+Jul 28 15:52:54 <Trivia>	Hint: re*******
+Jul 28 15:52:57 <aer>	redioshack
+Jul 28 15:53:03 <mitya>	shit my dad worked at one for years
+Jul 28 15:53:03 <Trivia>	Hint: real*****
+Jul 28 15:53:05 <aer>	lol
+Jul 28 15:53:08 <mitya>	Realpower
+Jul 28 15:53:10 <aer>	realplayer
+Jul 28 15:53:11 <mitya>	Realshack
+Jul 28 15:53:18 <aer>	realitykek
+Jul 28 15:53:24 <Trivia>	Hint: real***ic
+Jul 28 15:53:31 <mitya>	I have no idea
+Jul 28 15:53:38 <mitya>	Realistic
+Jul 28 15:53:38 <Trivia>	Winner: mitya; Answer: realistic; Time: 54.991s; Streak: 2; Points: 2; Total: 48
+Jul 28 15:53:42 <mitya>	Wat
+Jul 28 15:53:44 <aer>	lolol
+Jul 28 15:53:44 <Trivia>	5. TV/ Movies: Category: Entertainment Potpourri: Mustached comedian who portrayed Frankie in North to Alaska?
+Jul 28 15:53:54 <Trivia>	Hint: ern** ******
+Jul 28 15:54:04 <Trivia>	Hint: ernie ******
+Jul 28 15:54:05 <mitya>	Ernie Something
+Jul 28 15:54:13 <mitya>	Ernie Franks
+Jul 28 15:54:16 <aer>	ernie whatttt
+Jul 28 15:54:24 <Trivia>	Hint: ernie ****cs
+Jul 28 15:54:31 <mitya>	Ernie francs
+Jul 28 15:54:38 <mitya>	Nope
+Jul 28 15:54:41 <mitya>	.tt
+Jul 28 15:54:44 <Trivia>	Time's up! The answer was: ernie kovacs
+Jul 28 15:54:47 <mitya>	Ok
+Jul 28 15:54:52 <Trivia>	6. Word Play : Unscramble zign?
+Jul 28 15:54:59 <aer>	ginz
+Jul 28 15:55:01 <aer>	lol
+Jul 28 15:55:01 <Trivia>	Hint: z***
+Jul 28 15:55:05 <mitya>	Zing
+Jul 28 15:55:05 <Trivia>	Winner: mitya; Answer: zing; Time: 12.613s; Streak: 1; Points: 3; Total: 51
+Jul 28 15:55:05 <aer>	zign
+Jul 28 15:55:08 <aer>	??
+Jul 28 15:55:10 <aer>	??????
+Jul 28 15:55:11 <Trivia>	7. music: what song of shania twain's was on the notting hill soundtrack??
+Jul 28 15:55:20 <mitya>	Idk
+Jul 28 15:55:21 <Trivia>	Hint: you'** *** * ***
+Jul 28 15:55:29 <mitya>	You've got a gal
+Jul 28 15:55:31 <Trivia>	Hint: you've g** * ***
+Jul 28 15:55:37 <mitya>	You've got a gun
+Jul 28 15:55:43 <mitya>	You've got a guy
+Jul 28 15:55:46 <aer>	you've got a son
+Jul 28 15:55:49 *	sidolino has quit (Ping timeout: 240 seconds)
+Jul 28 15:55:51 <Trivia>	Hint: you've g** * way
+Jul 28 15:55:53 <aer>	you've got a way
+Jul 28 15:55:53 <Trivia>	Winner: aer; Answer: you've got a way; Time: 41.985s; Streak: 1; Points: 1; Total: 5830
+Jul 28 15:55:54 <mitya>	You've got a way
+Jul 28 15:55:57 <mitya>	Fuk
+Jul 28 15:56:02 <Trivia>	8. Who was Israel's only woman prime minister?
+Jul 28 15:56:04 <aer>	typeracerrr
+Jul 28 15:56:10 <mitya>	I'm on my phone
+Jul 28 15:56:11 *	hikaslap has quit (Ping timeout: 240 seconds)
+Jul 28 15:56:11 <Trivia>	Hint: go*** ****
+Jul 28 15:56:12 <mitya>	;-;
+Jul 28 15:56:18 <aer>	lol
+Jul 28 15:56:21 <Trivia>	Hint: golda ****
+Jul 28 15:56:26 <aer>	.cc israel female prime minister
+Jul 28 15:56:29 <Internets>	[W|A] Invalid input.
+Jul 28 15:56:33 <aer>	pooh
+Jul 28 15:56:41 <Trivia>	Hint: golda **ir
+Jul 28 15:56:50 <mitya>	Azir
+Jul 28 15:56:57 <aer>	really
+Jul 28 15:57:00 <aer>	golda azir
+Jul 28 15:57:01 <Trivia>	Time's up! The answer was: golda meir
+Jul 28 15:57:02 <mitya>	Idk
+Jul 28 15:57:08 <Trivia>	9. Pot Luck : According to the proverb what should not be washed in public?
+Jul 28 15:57:14 <mitya>	Hands
+Jul 28 15:57:15 <mitya>	Sin
+Jul 28 15:57:18 <Trivia>	Hint: di*** *****
+Jul 28 15:57:19 <mitya>	Ass
+Jul 28 15:57:22 <aer>	dirty hands
+Jul 28 15:57:24 <mitya>	Dirty souls
+Jul 28 15:57:27 <Trivia>	Hint: dirty *****
+Jul 28 15:57:29 <mitya>	Dirty shits
+Jul 28 15:57:31 <aer>	dirty bummms
+Jul 28 15:57:46 <aer>	dirty cloth
+Jul 28 15:57:47 <Trivia>	Hint: dirty ***en
+Jul 28 15:57:51 <mitya>	Dirty souls
+Jul 28 15:57:55 <mitya>	Dirty women
+Jul 28 15:58:07 <Trivia>	Time's up! The answer was: dirty linen
+Jul 28 15:58:10 <mitya>	Dirty linen
+Jul 28 15:58:12 <mitya>	Fuck
+Jul 28 15:58:12 <aer>	......
+Jul 28 15:58:14 <Trivia>	10. Pot Luck : What talk show hostess gave her guests the fewest opportunities to speak according to a 1996 msu survey?
+Jul 28 15:58:17 <aer>	omg
+Jul 28 15:58:18 <mitya>	Pho e
+Jul 28 15:58:24 <Trivia>	Hint: opr** *******
+Jul 28 15:58:29 <mitya>	Oprah winfrwy
+Jul 28 15:58:30 <aer>	oprah winfrey
+Jul 28 15:58:31 <Trivia>	Winner: aer; Answer: oprah winfrey; Time: 16.124s; Streak: 1; Points: 3; Total: 5833
+Jul 28 15:58:33 <mitya>	Oprah winfrey
+Jul 28 15:58:34 <aer>	there there
+Jul 28 15:58:36 <mitya>	Phoneeeee
+Jul 28 15:58:38 <Trivia>	11. TV/ Movies: 1999, This Movie was Released on February 12 Blast From ---------- ?
+Jul 28 15:58:39 <aer>	lol
+Jul 28 15:58:44 <aer>	the past
+Jul 28 15:58:44 <Trivia>	Winner: aer; Answer: the past; Time: 6.512s; Streak: 2; Points: 10; Total: 5843
+Jul 28 15:58:46 <mitya>	The past
+Jul 28 15:58:51 <Trivia>	12. UnScramble this Word:  l m m m a a?
+Jul 28 15:58:54 <thirteenthspiral>	huh huh sorry was doing stuff
+Jul 28 15:58:54 <mitya>	Mammal
+Jul 28 15:58:55 <Trivia>	Winner: mitya; Answer: mammal; Time: 3.839s; Streak: 1; Points: 5; Total: 56
+Jul 28 15:59:00 <Trivia>	13. Art Culture and Literature : What is the middle name of author Arthur C. Clarke?
+Jul 28 15:59:02 <aer>	lol
+Jul 28 15:59:06 <aer>	conrad
+Jul 28 15:59:06 <mitya>	Clark
+Jul 28 15:59:10 <aer>	castor
+Jul 28 15:59:10 <Trivia>	Hint: c******
+Jul 28 15:59:11 <thirteenthspiral>	Canon
+Jul 28 15:59:15 <aer>	well then
+Jul 28 15:59:20 <Trivia>	Hint: cha****
+Jul 28 15:59:22 <mitya>	Clarkee
+Jul 28 15:59:25 <mitya>	Charles
+Jul 28 15:59:25 <Trivia>	Winner: mitya; Answer: charles; Time: 24.542s; Streak: 2; Points: 4; Total: 60
+Jul 28 15:59:29 <aer>	huh
+Jul 28 15:59:31 <Trivia>	14. In 1843 British arrest Irish nationalist ---------- O'Connell for conspiracy. ?
+Jul 28 15:59:34 <aer>	brial
+Jul 28 15:59:40 <Trivia>	Hint: d*****
+Jul 28 15:59:44 <thirteenthspiral>	donald
+Jul 28 15:59:46 <aer>	first name that came to mind
+Jul 28 15:59:53 <thirteenthspiral>	lol
+Jul 28 15:59:53 <Trivia>	Hint: dan***
+Jul 28 15:59:53 <thirteenthspiral>	daniel
+Jul 28 15:59:53 <Trivia>	Winner: thirteenthspiral; Answer: daniel; Time: 22.179s; Streak: 1; Points: 2; Total: 2
+Jul 28 16:00:00 <Trivia>	15. In siberia in 1994, a container full of what was discovered in the 2,000 year old grave of a scythian princess and priestess?
+Jul 28 16:00:06 <aer>	weed
+Jul 28 16:00:10 <aer>	marijuana
+Jul 28 16:00:10 <Trivia>	Hint: ma*******
+Jul 28 16:00:10 <Trivia>	Winner: aer; Answer: marijuana; Time: 9.679s; Streak: 1; Points: 3; Total: 5846
+Jul 28 16:00:13 <aer>	LOL
+Jul 28 16:00:15 <thirteenthspiral>	oh what
+Jul 28 16:00:16 <Trivia>	16. Food and Drink : Shepherds pie is meat ground up covered with a layer of what mashed up?
+Jul 28 16:00:25 <aer>	sometimes the ridiculous answer is the correct answer
+Jul 28 16:00:27 <Trivia>	Hint: p******
+Jul 28 16:00:29 <aer>	potatoes
+Jul 28 16:00:29 <Trivia>	Winner: aer; Answer: potatoe; Time: 12.964s; Streak: 2; Points: 6; Total: 5852
+Jul 28 16:00:35 <Trivia>	17. In which European country is Romansch one of the official languages?
+Jul 28 16:00:38 <aer>	romania
+Jul 28 16:00:41 <aer>	lithuania
+Jul 28 16:00:42 <aer>	estonia
+Jul 28 16:00:44 <Trivia>	Hint: sw*********
+Jul 28 16:00:48 <aer>	switzerland
+Jul 28 16:00:48 <Trivia>	Winner: aer; Answer: switzerland; Time: 13.348s; Streak: 3; Points: 9; Total: 5861
+Jul 28 16:00:48 <thirteenthspiral>	switzerland
+Jul 28 16:00:56 <thirteenthspiral>	dang
+Jul 28 16:00:56 <Trivia>	18. TV/ Movies: 1967 - Raquel Welch - Starred In This Movie: ?
+Jul 28 16:00:58 <aer>	this is a battle of typing speed :p
+Jul 28 16:01:01 <mitya>	Haha
+Jul 28 16:01:02 <aer>	i hate these questions
+Jul 28 16:01:05 <Trivia>	Hint: the o***** **********
+Jul 28 16:01:07 <thirteenthspiral>	or internet speed
+Jul 28 16:01:10 <mitya>	I stopped for a bit
+Jul 28 16:01:16 <Trivia>	Hint: the olde** **********
+Jul 28 16:01:36 <Trivia>	Hint: the olde** *******ion
+Jul 28 16:01:42 *	Seaofskies has quit ()
+Jul 28 16:01:51 <aer>	the oldest communion
+Jul 28 16:01:56 <Trivia>	Time's up! The answer was: the oldest profession
+Jul 28 16:02:04 *	kef has quit (Quit: This computer has gone to sleep)
+Jul 28 16:02:05 <Trivia>	19. Mathematics : 10 of what equals 1 of rain in water content?
+Jul 28 16:02:14 <Trivia>	Hint: s***
+Jul 28 16:02:17 <thirteenthspiral>	what
+Jul 28 16:02:24 <Trivia>	Hint: sn**
+Jul 28 16:02:41 <thirteenthspiral>	snow
+Jul 28 16:02:41 <Trivia>	Winner: thirteenthspiral; Answer: snow; Time: 35.896s; Streak: 1; Points: 2; Total: 4
+Jul 28 16:02:47 <Trivia>	20. Politics : Seretse Khama was the first President of which country?
+Jul 28 16:02:57 <Trivia>	Hint: bo******
+Jul 28 16:03:07 <aer>	bosniasnia
+Jul 28 16:03:07 <Trivia>	Hint: bots****
+Jul 28 16:03:10 <aer>	botswana
+Jul 28 16:03:10 <Trivia>	Winner: aer; Answer: botswana; Time: 22.925s; Streak: 1; Points: 2; Total: 5863
+Jul 28 16:03:18 <Trivia>	21. TV Film and Stage : In this 1968 film the husband of an unsuspecting young wife becomes involved with a witchs coven?
+Jul 28 16:03:27 <Trivia>	Hint: ros****** ****
+Jul 28 16:03:37 <aer>	bleh
+Jul 28 16:03:37 <Trivia>	Hint: rosemar** ****
+Jul 28 16:03:57 <Trivia>	Hint: rosemar** **by
+Jul 28 16:04:06 <aer>	.strivia
+Jul 28 16:04:07 <Trivia>	Trivia stopped. '.trivia [number]' to start playing again.
+Jul 28 16:04:07 <Muse-chan>	SpamGuard: Trivia has ended. Commands and logging are now enabled.
+Jul 28 16:04:42 <mitya>	$help
+Jul 28 16:04:42 <Muse-chan>	Type $help <command> for details.
+Jul 28 16:04:42 <Muse-chan>	poll, anime, [time, settimezone], blackjack, [money, loan, debt, pay], log, s/.
+Jul 28 16:04:58 <mitya>	Hm maybe when I get home I'll expand s/
+Jul 28 16:05:14 <mitya>	s/\//\\/
+Jul 28 16:05:14 <Muse-chan>	<mitya> Hm maybe when I get home I'll expand s\
+Jul 28 16:05:27 <mitya>	Some bots can't handle that kind of input
+Jul 28 16:06:35 <aer>	can't it already handle regex 
+Jul 28 16:07:00 <mitya>	I meant the slashes
+Jul 28 16:07:15 <mitya>	What I want to add is like
+Jul 28 16:07:25 <mitya>	s/something/$0/
+Jul 28 16:07:25 <Muse-chan>	<mitya> And D. gray-man gets $0 again finally
+Jul 28 16:07:31 <aer>	oh
+Jul 28 16:07:41 <mitya>	Where $0 is the first matched argument
+Jul 28 16:07:45 <mitya>	Etc
+Jul 28 16:08:06 <mitya>	Useful when you leave out a word or something
+Jul 28 16:08:30 <aer>	$help s/
+Jul 28 16:08:30 <Muse-chan>	s/ is a regular expression substitution function. The syntax for use is `s/<Expression to be replaced>/<Replacement string>/<Modifier Flag>`. The flags available are i (case insensitivity) and g (global). For futher understanding of regular expressions, I recommend http://regexr.com .
+Jul 28 16:09:00 <aer>	better add a blurb in there too
+Jul 28 16:11:15 <mitya>	Yeah, I'll expand on it.
+Jul 28 16:11:35 <mitya>	SoraSky, you should give me access to your rpi server :^)
+Jul 28 16:11:57 <mitya>	And make muse a service so we can both make adjustments
+Jul 28 16:12:09 *	mitya has good ircbot ideas
+Jul 28 16:12:33 <aer>	oh yeah did sora turn off ssh password authentication yet
+Jul 28 16:12:38 <aer>	last time i checked it was still on
+**** BEGIN LOGGING AT Sat Jul 30 17:00:42 2016
+
+Jul 30 17:00:42 *	Now talking on #nanodesu
+Jul 30 17:00:42 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 30 17:00:42 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 30 17:00:42 <Onee-chan>	[Aer] whoosh~
+Jul 30 17:00:42 *	Onee-chan gives channel operator status to aer
+Jul 30 17:01:43 <mitya>	wb
+Jul 30 17:01:54 <aer>	thx
+Jul 30 17:01:58 <aer>	just booted into arch
+Jul 30 17:03:06 <mitya>	ic
+Jul 30 17:08:09 <mitya>	tfw I didn't have libevent
+Jul 30 17:08:10 <mitya>	@_@
+Jul 30 17:08:16 *	mitya is an idiot
+Jul 30 17:08:25 <aer>	??
+Jul 30 17:08:38 <mitya>	couldn't compile the most up-to-date version of i3-gaps
+Jul 30 17:08:44 <mitya>	because somehow I uninstalled that lib
+Jul 30 17:08:58 <mitya>	probably when I switched from debian stable to debian testing
+Jul 30 17:09:04 <aer>	lolol
+Jul 30 17:09:17 <aer>	is there a huge difference between the two branches?
+Jul 30 17:09:22 <mitya>	yes
+Jul 30 17:09:29 <aer>	huh
+Jul 30 17:09:31 <mitya>	nothing gets put into stable without being old, pretty much
+Jul 30 17:09:37 <mitya>	there are 3 versions of debian
+Jul 30 17:09:44 <aer>	three?!
+Jul 30 17:09:49 <aer>	i thought there were only two
+Jul 30 17:09:56 <mitya>	yup
+Jul 30 17:17:04 <mitya>	wew I have cava again
+Jul 30 17:17:09 <mitya>	yay for jumpy bars
+Jul 30 17:22:07 *	jonathanasdf (~jonathana@jonathanasdf.142857.net) has joined
+Jul 30 17:22:07 *	Onee-chan gives channel operator status to jonathanasdf
+Jul 30 17:22:17 <jonathanasdf>	https://www.youtube.com/watch?v=cC8NBJTc6aI
+Jul 30 17:22:19 <Muse-chan>	jonathanasdf, you have unread messages.
+Jul 30 17:22:19 <Muse-chan>	Kuro-pi : http://puu.sh/qk1UL.jpg LOL (1 hour ago)
+Jul 30 17:22:45 <jonathanasdf>	!tell Kuro-pi #namesarehard
+Jul 30 17:22:45 <Muse-chan>	Message registered.
+Jul 30 17:23:31 *	HexOmega (cgiirc@Rizon-48B8D3A4.cinci.res.rr.com) has joined
+Jul 30 17:27:25 <mitya>	yo
+Jul 30 17:27:31 <mitya>	how alcoholism
+Jul 30 17:27:47 <mitya>	how's*
+**** BEGIN LOGGING AT Sat Jul 30 17:29:33 2016
+
+Jul 30 17:29:33 *	Now talking on #nanodesu
+Jul 30 17:29:33 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 30 17:29:33 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 30 17:29:33 <Onee-chan>	[Aer] whoosh~
+Jul 30 17:29:33 *	Onee-chan gives channel operator status to aer
+Jul 30 17:29:54 <mitya>	welcome back aer
+Jul 30 17:29:57 <mitya>	got bspwm going?
+Jul 30 17:30:06 <aer>	not yet trying to install the conky subsolar
+Jul 30 17:30:12 <mitya>	rip
+Jul 30 17:30:21 <aer>	i was promised a star/satellite chart :'(
+**** BEGIN LOGGING AT Sat Jul 30 17:32:04 2016
+
+Jul 30 17:32:04 *	Now talking on #nanodesu
+Jul 30 17:32:04 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 30 17:32:04 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 30 17:32:04 <Onee-chan>	[Aer] whoosh~
+Jul 30 17:32:04 *	Onee-chan gives channel operator status to aer
+Jul 30 17:32:05 <aer>	yay!
+Jul 30 17:32:11 <aer>	it works!!
+Jul 30 17:32:16 <mitya>	grats
+Jul 30 17:32:27 <aer>	but it's 1/4 my screen size lolol
+Jul 30 17:34:34 <aer>	i wish i could make it bigger :(
+Jul 30 17:35:19 <mitya>	were they using a small screen or
+Jul 30 17:35:21 <mitya>	.
+Jul 30 17:36:07 <aer>	the resolution was way lower
+Jul 30 17:36:09 <mitya>	or are you using hidpi
+Jul 30 17:36:12 <aer>	hidpi
+Jul 30 17:36:15 <mitya>	ah
+Jul 30 17:36:18 <mitya>	his was like
+Jul 30 17:36:26 <mitya>	1600x1050
+Jul 30 17:36:29 <aer>	yeah
+Jul 30 17:36:36 <aer>	is there a way to upscale?
+Jul 30 17:36:50 <mitya>	weird af resolution
+Jul 30 17:37:03 <aer>	lol
+Jul 30 17:37:12 <mitya>	look in the subsolar.conkyrc
+Jul 30 17:37:21 <mitya>	if anything, that's most likely to be where you change things
+Jul 30 17:37:32 <jonathanasdf>	conky
+Jul 30 17:37:41 <mitya>	oh there are a bunch of fucking conky rcs
+Jul 30 17:37:42 <mitya>	fuck this
+Jul 30 17:37:47 <aer>	lolol
+Jul 30 17:38:20 <aer>	huh 
+Jul 30 17:40:55 <aer>	https://u.teknik.io/FtXkr.png
+Jul 30 17:41:00 <aer>	no coastline info though :(
+Jul 30 17:41:04 <HexOmega>	i just paid 88 cents to get into a closed beta for a game
+Jul 30 17:41:09 <HexOmega>	the internet is great
+Jul 30 17:41:57 <ilampan>	lol
+Jul 30 17:42:10 <aer>	they should be paying you because they want their game to be tested lol
+Jul 30 17:42:13 <jonathanasdf>	wat
+Jul 30 17:42:18 <jonathanasdf>	you have to pay
+Jul 30 17:42:19 <jonathanasdf>	?
+Jul 30 17:42:29 <HexOmega>	no, i just missed the window to sign up
+Jul 30 17:42:33 <HexOmega>	so i bought a beta key online
+Jul 30 17:42:36 <jonathanasdf>	....lol
+Jul 30 17:42:50 <jonathanasdf>	i should do that
+Jul 30 17:42:58 <jonathanasdf>	sign up for random betas for everything and sell keys for 88 cents
+Jul 30 17:43:15 <HexOmega>	i mean, it's a 2 week beta, so i can't complain that much
+**** BEGIN LOGGING AT Sat Jul 30 17:44:38 2016
+
+Jul 30 17:44:38 *	Now talking on #nanodesu
+Jul 30 17:44:38 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 30 17:44:38 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 30 17:44:38 <Onee-chan>	[Aer] whoosh~
+Jul 30 17:44:38 *	Onee-chan gives channel operator status to aer
+Jul 30 17:48:46 *	ChappalChor7 (~chappalch@DAA1916.37BB4212.20947437.IP) has joined
+**** BEGIN LOGGING AT Sat Jul 30 17:51:11 2016
+
+Jul 30 17:51:11 *	Now talking on #nanodesu
+Jul 30 17:51:11 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 30 17:51:11 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 30 17:51:11 <Onee-chan>	[Aer] whoosh~
+Jul 30 17:51:11 *	Onee-chan gives channel operator status to aer
+Jul 30 17:54:37 <aer>	$anime 91 days
+Jul 30 17:54:37 <Muse-chan>	91 Days subs will be released in 5 days, 20 hours and 36 minutes.
+Jul 30 17:54:53 <mitya>	get a better tint2
+Jul 30 17:54:57 <mitya>	aer
+Jul 30 17:56:24 <aer>	that's why im moving to bspwm and bars :3
+Jul 30 17:56:37 <aer>	i've also barely customized it lol
+Jul 30 17:58:36 <aer>	and the color scheme matches the wallpaper really well
+**** BEGIN LOGGING AT Sat Jul 30 18:07:14 2016
+
+Jul 30 18:07:14 *	Now talking on #nanodesu
+Jul 30 18:07:14 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 30 18:07:14 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 30 18:07:14 <Onee-chan>	[Aer] whoosh~
+Jul 30 18:07:14 *	Onee-chan gives channel operator status to aer
+Jul 30 18:10:13 <mitya>	lol
+Jul 30 18:11:36 *	ChappalChor7 has quit (Ping timeout: 240 seconds)
+Jul 30 18:12:54 *	jonathanasdf_ (~jonathana@Rizon-3566B0F4.hsd1.ca.comcast.net) has joined
+Jul 30 18:13:36 *	jonathanasdf has quit (Ping timeout: 240 seconds)
+Jul 30 18:28:01 *	nanodesu (~nanodesu@6F4EBA5F.C29AD1D5.C325045E.IP) has joined
+Jul 30 18:28:01 *	Onee-chan sets mode +q on #nanodesu nanodesu
+Jul 30 18:28:01 *	Onee-chan gives channel operator status to nanodesu
+Jul 30 18:29:14 <aer>	isn't it 6 am in china
+Jul 30 18:30:13 *	nanodesuyo (~nanodesu@Rizon-362306D.slac.stanford.edu) has joined
+Jul 30 18:31:47 <erebea_v2>	Mornin nano O/
+Jul 30 18:32:06 *	nanodesu has quit (Ping timeout: 240 seconds)
+Jul 30 18:32:47 <nanodesuyo>	yo
+**** BEGIN LOGGING AT Sat Jul 30 18:35:10 2016
+
+Jul 30 18:35:10 *	Now talking on #nanodesu
+Jul 30 18:35:10 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 30 18:35:10 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 30 18:35:10 <Onee-chan>	[Aer] whoosh~
+Jul 30 18:35:10 *	Onee-chan gives channel operator status to aer
+Jul 30 18:35:53 <nanodesuyo>	hi aer
+Jul 30 18:35:54 <nanodesuyo>	im in china
+Jul 30 18:43:49 <aer>	yeah isn't it 6 am
+Jul 30 18:43:56 <aer>	how are you able to wake up so early
+Jul 30 18:43:58 *	aer is envious
+Jul 30 18:45:08 <nanodesuyo>	uh jetlag?
+Jul 30 18:45:30 <aer>	oh right
+Jul 30 18:45:36 <aer>	which city are you in?
+Jul 30 18:45:41 <nanodesuyo>	beijing
+Jul 30 18:46:02 <aer>	don't exercise
+Jul 30 18:46:03 <aer>	ever
+Jul 30 18:46:26 <aer>	and you won't end up with lung problems
+Jul 30 18:46:54 <aer>	that's a key life hack while you're there ;)
+Jul 30 18:47:05 <nanodesuyo>	lol
+Jul 30 18:49:32 <aer>	or just do as mark zuckerberg did and take an early morning jog when the pollution is heaviest to impress all the chinese peoples you'll be meeting with your selflessness
+Jul 30 18:51:53 <mitya>	Lmao
+Jul 30 18:53:11 *	nanodesuyo has quit (Ping timeout: 240 seconds)
+Jul 30 18:53:35 *	nanodesuyo_2 (~nanodesu@Rizon-362306D.slac.stanford.edu) has joined
+Jul 30 18:53:41 <nanodesuyo_2>	.
+**** BEGIN LOGGING AT Sat Jul 30 20:24:46 2016
+
+Jul 30 20:24:46 *	Now talking on #nanodesu
+Jul 30 20:24:46 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 30 20:24:46 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 30 20:24:46 <Onee-chan>	[Aer] whoosh~
+Jul 30 20:24:46 *	Onee-chan gives channel operator status to aer
+**** BEGIN LOGGING AT Sat Jul 30 22:01:38 2016
+
+Jul 30 22:01:38 *	Now talking on #nanodesu
+Jul 30 22:01:38 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 30 22:01:38 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 30 22:01:38 <Onee-chan>	[Aer] whoosh~
+Jul 30 22:01:38 *	Onee-chan gives channel operator status to aer
+Jul 30 22:09:27 *	lekhaka has quit (Ping timeout: 240 seconds)
+Jul 30 22:25:11 *	xxkoyomixx (~qwebirc@Rizon-9E68F43B.singnet.com.sg) has joined
+Jul 30 22:25:42 FiSHLiM plugin unloaded
+Jul 30 22:25:42 Python interface unloaded
+**** ENDING LOGGING AT Sat Jul 30 22:25:42 2016
+
+**** BEGIN LOGGING AT Sun Jul 31 17:56:28 2016
+
+Jul 31 17:56:28 *	Now talking on #nanodesu
+Jul 31 17:56:28 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Jul 31 17:56:28 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Jul 31 17:56:28 <Onee-chan>	[Aer] whoosh~
+Jul 31 17:56:28 *	Onee-chan gives channel operator status to aer
+Jul 31 17:56:39 <mitya>	whoosh
+Jul 31 17:56:56 <aer>	wew
+Jul 31 17:57:10 <aer>	vev
+Jul 31 17:57:15 <aer>	>_>
+Jul 31 17:58:52 *	ChappalChor7 has quit (Ping timeout: 240 seconds)
+Jul 31 17:59:13 <aer>	what does the mitya say
+Jul 31 17:59:15 *	WaveZero has quit (Read error: Connection reset by peer)
+Jul 31 17:59:19 <DefaultMelody>	whoosh
+Jul 31 17:59:23 <mitya>	^
+Jul 31 17:59:34 <mitya>	almost done moving all my shit to my car
+Jul 31 18:00:10 <aer>	how long is the trip
+Jul 31 18:00:55 <mitya>	1300 miles total
+Jul 31 18:01:00 <mitya>	doing 1000 tonight
+Jul 31 18:01:05 <mitya>	the last 300 Thursday
+Jul 31 18:01:13 <mitya>	spending a couple days in baltimore w/ my sis
+Jul 31 18:01:17 <aer>	wao
+Jul 31 18:01:27 <aer>	are you driving?
+Jul 31 18:01:29 <mitya>	yup
+Jul 31 18:01:41 *	ChappalChor7 (~chappalch@E6072279.69F265E8.AC74BEC8.IP) has joined
+Jul 31 18:01:42 <aer>	stocked up on coffee?
+Jul 31 18:01:47 <mitya>	yup
+Jul 31 18:01:53 <mitya>	and various energy beverages
+Jul 31 18:02:00 <aer>	alright you're good to go
+Jul 31 18:02:37 <aer>	no matter what you do don't overdose on 5 hour energy
+Jul 31 18:02:42 <mitya>	of course
+Jul 31 18:02:48 <mitya>	I know how to handle my caffeine
+Jul 31 18:02:50 <mitya>	;)
+Jul 31 18:02:56 <aer>	lol
+Jul 31 18:05:13 <jonathanasdf_>	gonna be a long day today
+Jul 31 18:05:24 <jonathanasdf_>	.cc 1000/80
+Jul 31 18:05:24 <Internets>	[calc] 1000/80 = 12.5
+Jul 31 18:05:34 <aer>	$time jon
+Jul 31 18:05:34 <Muse-chan>	It is currently Monday 02:35 in jonathanasdf's time zone.
+Jul 31 18:05:41 <aer>	veery nice
+Jul 31 18:06:16 <jonathanasdf_>	wat
+Jul 31 18:06:18 <aer>	good luck shaking off that jet lag
+Jul 31 18:06:30 <jonathanasdf_>	watawatawat
+Jul 31 18:06:39 <mitya>	but there's no jet
+Jul 31 18:06:43 <aer>	????
+Jul 31 18:06:56 <mitya>	lmao I'm kidding
+Jul 31 18:06:59 <mitya>	but I'll be fine
+Jul 31 18:07:07 <mitya>	I'm used to insomnia anyway
+Jul 31 18:07:14 <jonathanasdf_>	lol
+Jul 31 18:07:15 <aer>	lol
+Jul 31 18:07:21 <mitya>	when I went to my CT visit, I got 1 hr of sleep
+Jul 31 18:07:33 <mitya>	then flew to DC because I missed my original flight
+Jul 31 18:07:38 <mitya>	>commence 7hr layover
+Jul 31 18:07:44 <aer>	*nice*
+Jul 31 18:08:01 <mitya>	yeah 
+Jul 31 18:08:04 <mitya>	fuck taxis in CT
+Jul 31 18:08:30 <aer>	and from then on mitya learned to handle his caffeine
+Jul 31 18:09:16 <mitya>	lmao nah, I've always been a caffeine addict
+Jul 31 18:09:54 <aer>	why don't we have rehab centers for caffeine
+Jul 31 18:10:21 <mitya>	It's simpler than drugs to get over I guess
+Jul 31 18:13:54 <aer>	do you take your coffee black?
+Jul 31 18:13:59 *	jonathanasdf (~jonathana@jonathanasdf.142857.net) has joined
+Jul 31 18:13:59 *	Onee-chan gives channel operator status to jonathanasdf
+Jul 31 18:14:39 <hakurei06>	Today is Boh's birthday, or just after, right?
+Jul 31 18:15:28 *	jonathanasdf_ has quit (Ping timeout: 240 seconds)
+Jul 31 18:18:07 FiSHLiM plugin unloaded
+Jul 31 18:18:07 Python interface unloaded
+**** ENDING LOGGING AT Sun Jul 31 18:18:07 2016
+
+**** BEGIN LOGGING AT Tue Aug  2 20:30:44 2016
+
+Aug 02 20:30:44 *	Now talking on #nanodesu
+Aug 02 20:30:44 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Aug 02 20:30:44 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Aug 02 20:30:44 <Onee-chan>	[Aer] whoosh~
+Aug 02 20:30:44 *	Onee-chan gives channel operator status to aer
+Aug 02 20:38:11 FiSHLiM plugin unloaded
+Aug 02 20:38:11 Python interface unloaded
+**** ENDING LOGGING AT Tue Aug  2 20:38:11 2016
+
+**** BEGIN LOGGING AT Tue Aug  2 21:34:51 2016
+
+Aug 02 21:34:51 *	Now talking on #nanodesu
+Aug 02 21:34:51 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Aug 02 21:34:51 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Aug 02 21:34:51 <Onee-chan>	[Aer] whoosh~
+Aug 02 21:34:51 *	Onee-chan gives channel operator status to aer
+Aug 02 21:35:00 <aer>	$log
+Aug 02 21:35:09 <aer>	right
+Aug 02 21:36:41 FiSHLiM plugin unloaded
+Aug 02 21:36:41 Python interface unloaded
+**** ENDING LOGGING AT Tue Aug  2 21:36:41 2016
+
+**** BEGIN LOGGING AT Tue Aug  2 21:43:34 2016
+
+Aug 02 21:43:34 *	Now talking on #nanodesu
+Aug 02 21:43:34 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/  https://streamable.com/n79j http://420.moe/ http://wanwan.moe/ https://streamable.com/t7i8  Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands.
+Aug 02 21:43:34 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Mon Jul 18 18:34:33 2016)
+Aug 02 21:43:34 <Onee-chan>	[Aer] whoosh~
+Aug 02 21:43:34 *	Onee-chan gives channel operator status to aer
+Aug 02 21:43:48 <aer>	mitya plz help
+Aug 02 21:44:06 <mitya>	???
+Aug 02 21:44:31 <aer>	i need a way to make my laptop's cpu not run at 60 degrees celcius just from playing a youtube video
+Aug 02 21:44:35 <aer>	*70
+Aug 02 21:44:39 <mitya>	Uh
+Aug 02 21:44:48 <mitya>	That's bad
+Aug 02 21:44:59 <aer>	lol
+Aug 02 21:45:02 <mitya>	Why does it do that
+Aug 02 21:45:10 <mitya>	get htop
+Aug 02 21:45:17 <nanodesuyo_2>	mitya hows yukari
+Aug 02 21:45:38 <mitya>	I haven't edited while in Baltimore tbh
+Aug 02 21:45:44 <nanodesuyo_2>	:(((((((((
+Aug 02 21:45:51 <mitya>	I get into CT Thursday
+Aug 02 21:45:57 <nanodesuyo_2>	we're still on schedule right
+Aug 02 21:46:08 <mitya>	I tried to find the announcement but didn't see it
+Aug 02 21:47:23 *	mitya doesn't know the schedule any more
+Aug 02 21:47:36 <mitya>	It shows I'm the only one to touch the folder in ages
+Aug 02 21:47:58 <nanodesuyo_2>	werent we supposed to finish by like first week of august?
+Aug 02 21:48:10 <nanodesuyo_2>	yeah i delayed the announcement becuas eijust realized we have to redo the themes for wordpress
+Aug 02 21:48:13 <nanodesuyo_2>	they retired our old theme
+Aug 02 21:48:18 <mitya>	Oh ic
+Aug 02 21:49:49 <aer>	reason: firefox uses like 4x as much resources as any other process
+Aug 02 21:49:52 <mitya>	I was set back a bit by the event of my laptop keyboard getting spilled on and 12 keys stopped working but I ordered a replacement and have been using an external keyboard in the meantime
+Aug 02 21:50:20 <aer>	aah cant english anymore
+Aug 02 21:50:25 <mitya>	aer, yeah ff had a long going memory leak issue
+Aug 02 21:50:30 <nanodesuyo_2>	lol but we're not too delayed right?
+Aug 02 21:50:34 <nanodesuyo_2>	get that fixed and u can get back o nit?
+Aug 02 21:50:38 <mitya>	nanodesuyo_2 yeah not too bad
+Aug 02 21:52:23 <aer>	so...is google chrome better than firefox?
+Aug 02 21:52:45 <nanodesuyo_2>	thanks
+Aug 02 21:53:57 <mitya>	aer, not really
+Aug 02 21:54:03 <mitya>	They're pretty equivalent
+Aug 02 21:54:08 <kef>	hey nano in cyrillic looks like laughter нано 
+Aug 02 21:54:14 <mitya>	Both will eat your resources
+Aug 02 21:54:26 <kef>	нананоно
+Aug 02 21:54:28 <aer>	is there a decent browser than D:
+Aug 02 21:54:32 <aer>	*then
+Aug 02 21:54:37 <mitya>	I disabled caching in ff but I don't think that's what makes it not kill my cpu
+Aug 02 21:54:47 <aer>	rip
+Aug 02 21:55:32 <mitya>	Uh
+Aug 02 21:56:09 <aer>	is chromium better than google chrome?
+Aug 02 21:56:12 <mitya>	Jumanji/Surf/qtbrowser are pretty popular
+Aug 02 21:56:15 <aer>	besides just being an open source version
+Aug 02 21:56:21 <mitya>	Nah they're pretty identical
+Aug 02 21:56:27 <hobogunner>	There is a variant of Firefox called Pale Moon
+Aug 02 21:56:37 <hobogunner>	if you're pretty set on loving FF but want fewer leaks
+Aug 02 21:56:38 <aer>	isnt jumanji a movie
+Aug 02 21:56:44 <aer>	i remember watching it in middle school
+Aug 02 21:57:31 <aer>	well okay apparently with fans running at 3.5k rpm cpu cools to 50 degrees
+Aug 02 21:57:36 <aer>	i think thats decent right
+Aug 02 21:57:55 <hobogunner>	still rather hot for a youtube video
+Aug 02 21:58:02 <hobogunner>	my ff doesn't have that issue
+Aug 02 21:58:10 <aer>	pale moon?
+Aug 02 21:58:18 <hobogunner>	no, I run actual FF on my laptop
+Aug 02 21:58:22 <aer>	oh
+Aug 02 21:58:26 *	mitya uses iceweasel
+Aug 02 21:58:28 <mitya>	bc debian
+Aug 02 21:58:40 <aer>	convenient lol
+Aug 02 21:59:00 <hobogunner>	are you talking your desktop or your laptop running 50
+Aug 02 21:59:10 <mitya>	70
+Aug 02 21:59:11 <aer>	laptop
+Aug 02 21:59:30 <aer>	its 50 with fans at 3.5k rpm lolol
+Aug 02 21:59:36 <hobogunner>	oh, meh. I mean, that's pretty hot and if you have FB open and shit like that you deserve it but if not then w/e
+Aug 02 21:59:36 <aer>	70 with fans at 2k
+Aug 02 21:59:51 <hobogunner>	I just don't get how. That variance almost seems like you need to replace thermal paste
+Aug 02 22:00:00 <aer>	>macbook
+Aug 02 22:00:02 <kef>	are this is on ur macbook right
+Aug 02 22:00:09 <hobogunner>	>Lenovo ultrabook
+Aug 02 22:00:13 <kef>	i'm perpetually at like 60 C on 1.5k
+Aug 02 22:00:21 <hobogunner>	my laptop should be running hotter than your tho
+Aug 02 22:00:22 <aer>	on osx right
+Aug 02 22:00:39 <aer>	things run a lot cooler on osx
+Aug 02 22:00:42 <mitya>	hm youtube/ff don't seem to make my system freak out too much
+Aug 02 22:00:59 <mitya>	even on hd video (not that the difference would be dramatic based on quality)
+Aug 02 22:01:02 <aer>	meh ill sacrifice battery life for cpu for now
+Aug 02 22:01:10 <hobogunner>	but....why
+Aug 02 22:01:14 <aer>	no idea
+Aug 02 22:01:17 <hobogunner>	why not both
+Aug 02 22:01:30 <kef>	for some reason mangago is using 500 mb smh
+Aug 02 22:01:45 <aer>	i mean...arch isnt optimized for mac hardware 
+Aug 02 22:01:46 <kef>	do u by any chance have mangago open are
+Aug 02 22:01:47 <kef>	aer*
+Aug 02 22:01:52 <aer>	wats mangago
+Aug 02 22:01:58 <kef>	ok nvm then
+Aug 02 22:02:02 <aer>	oh
+Aug 02 22:02:02 <kef>	it a manga site
+Aug 02 22:02:04 <aer>	bl?
+Aug 02 22:02:06 <aer>	lol
+Aug 02 22:02:06 <mitya>	https://u.teknik.io/7paxd.png
+Aug 02 22:02:07 <kef>	not just bl
+Aug 02 22:02:26 <mitya>	my cpu does work harder than normal when I watch yt
+Aug 02 22:02:27 <kef>	i think my chrome uses like 3 gb
+Aug 02 22:02:28 <mitya>	but not terribly
+Aug 02 22:02:40 <hobogunner>	analyzers that I like make my comp crash
+Aug 02 22:02:47 <hobogunner>	but I do force FF to only one core
+Aug 02 22:02:55 <mitya>	I don't
+Aug 02 22:03:05 <mitya>	I have 4 dual-threaded
+Aug 02 22:03:07 <mitya>	I don't see the point
+Aug 02 22:03:34 <hobogunner>	Well, we're on different OS' and different systems so....k?
+Aug 02 22:03:44 <aer>	wow just ran google chrome and it started a bunch of processes that all use the same amount of resources as firefox
+Aug 02 22:04:24 <hobogunner>	I dislike Chrome quite a bit
+Aug 02 22:04:36 <hobogunner>	I'd honestly sooner use Edge
+Aug 02 22:04:36 <mitya>	chrome used to be better than it is now imo
+Aug 02 22:04:41 <hobogunner>	Oh, much
+Aug 02 22:05:25 <hobogunner>	I mean, Chrome at least doesn't have FF' issues (at least for me) that require me to switch it to one or two cores only, but still. It is a constantly refreshing (annoyingly) beast
+Aug 02 22:07:35 <hobogunner>	Firefox actually handled better previously for me before as well too though, but that could also be because I've used FF since iTunes was green, not blue
+Aug 02 22:13:17 *	Wing_ has quit (Ping timeout: 240 seconds)
+Aug 02 22:15:43 <kef>	chat ded why
+Aug 02 22:19:30 <mitya>	idk
+Aug 02 22:19:50 <mitya>	I'm trying to figure out why my comp says it doesn't have a backlight
+Aug 02 22:20:06 <aer>	you mean backlight property?
+Aug 02 22:20:13 <mitya>	yeah
+Aug 02 22:20:21 <aer>	same thing happened to me
+Aug 02 22:20:30 <aer>	https://aur.archlinux.org/packages/light-git
+Aug 02 22:20:34 <aer>	just install that
+Aug 02 22:20:36 <aer>	works like a charm
+Aug 02 22:20:43 <aer>	upstream url ofc lol
+Aug 02 22:22:37 <aer>	then bind keys to light -A x%/light -U x%
+Aug 02 22:23:15 <mitya>	what a shitty username to type
+Aug 02 22:23:19 <mitya>	"haikarainen"
+Aug 02 22:23:58 <mitya>	wtf is help2man and why does it depend on that
+Aug 02 22:24:26 <mitya>	meh fuck it it's tiny
+Aug 02 22:24:31 <aer>	lol
+Aug 02 22:26:23 <mitya>	wew
+Aug 02 22:26:34 <mitya>	set my brightness to 50% and it worked
+Aug 02 22:26:43 <mitya>	xrandr gives fake brightness changes
+Aug 02 22:26:53 <aer>	yep
+Aug 02 22:26:54 <mitya>	it just messes with the colors
+Aug 02 22:27:23 <aer>	its weird how the backlight isn't detected though
+Aug 02 22:28:27 <mitya>	it probably has to do with xorg not having a set backlight listed
+Aug 02 22:28:28 <mitya>	w/e
+Aug 02 22:28:49 <mitya>	messing with the /sys/class/backlight/*/brightness file is just as simple
+Aug 02 22:28:59 <mitya>	pretty sure that's what `light` does
+Aug 02 22:29:07 <aer>	yeah
+Aug 02 22:29:32 <aer>	but light makes things simple :D
+Aug 02 22:30:47 *	Disconnected ()
+**** ENDING LOGGING AT Tue Aug  2 22:30:47 2016
+
+**** BEGIN LOGGING AT Thu Aug 11 21:59:38 2016
+
+Aug 11 21:59:38 *	Now talking on #nanodesu
+Aug 11 21:59:38 *	Topic for #nanodesu is: Welcome to NanoDesu Translations Diamond is Unbreakable!! https://nanodesutranslations.wordpress.com/ Some fun: http://bit.ly/1DKeLJR http://loli.dance/ http://420.moe/ http://wanwan.moe/ Come join us at our forums: http://forums.nanodesutranslations.org/ Type $help for Muse-chan commands. Happy Birthday Hex!!!
+Aug 11 21:59:38 *	Topic for #nanodesu set by mitya!~fullsalvo@blood.and.thunder (Sat Aug  6 18:49:46 2016)
+Aug 11 21:59:38 <Onee-chan>	[Aer] whoosh~
+Aug 11 21:59:38 *	Onee-chan gives channel operator status to aer
+Aug 11 21:59:47 <HexOmega>	so fighting games kind of work like this: "game start, footsies (throwing out pokes to bait the opponent), hit connects, execute combo, reset game to footsies"
+Aug 11 21:59:59 <HexOmega>	all of the skill is in baiting the opponent 
+Aug 11 22:00:14 <Yarn_>	it's like 10% reaction 90% yomi
+Aug 11 22:00:18 <HexOmega>	lul
+Aug 11 22:00:21 <HexOmega>	5 layers yomi
+Aug 11 22:00:22 <aer>	that's a lot like real boxing
+Aug 11 22:00:32 <aer>	isn't it
+Aug 11 22:00:39 <HexOmega>	yea
+Aug 11 22:00:42 <Yarn_>	and 5% cheese
+Aug 11 22:00:50 <HexOmega>	it's a good bit of mind games and baiting out openings 
+Aug 11 22:01:38 <aer>	"knowing the mind of the opponent" lol
+Aug 11 22:02:06 <aer>	there's a lot more strategy involved than i expected
+Aug 11 22:05:06 *	breezy (~jerry@DD26BD60:36F4FD5E:3BFB3BC5:IP) has joined
+Aug 11 22:05:06 <Onee-chan>	[breezy] whoosh~
+Aug 11 22:05:06 *	Onee-chan gives channel operator status to breezy
+Aug 11 22:05:45 *	You have been killed by NickServ ((GHOST command used by breezy))
+Aug 11 22:05:45 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Thu Aug 11 22:05:45 2016
+

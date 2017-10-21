@@ -1,0 +1,9 @@
+[KFileDialog Settings]
+Recent Files[$e]=file://$HOME/Downloads/arch-linux-official-logo_wallpprs.com_.jpg,file://$HOME/Downloads/archlinux-2880x1800-wallpaper-2212.jpg,file://$HOME/Downloads/arch-linux-3955-2880x1800.jpg
+Recent URLs[$e]=file://$HOME/Downloads/
+
+[PlasmaViews][Panel 1][Horizontal2880]
+thickness=36
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

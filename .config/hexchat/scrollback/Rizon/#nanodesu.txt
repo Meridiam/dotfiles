@@ -1,0 +1,523 @@
+T 1469735919 20<aer>30	lol
+T 1469735924 20<aer>30	the past
+T 1469735924 19<Trivia>	Winner: aer; Answer: the past; Time: 6.512s; Streak: 2; Points: 10; Total: 5843
+T 1469735926 18<mitya18>	The past
+T 1469735931 18<Trivia18>	12. UnScramble this Word:  l m m m a a?
+T 1469735934 18<thirteenthspiral18>	huh huh sorry was doing stuff
+T 1469735934 18<mitya18>	Mammal
+T 1469735935 18<Trivia18>	Winner: mitya; Answer: mammal; Time: 3.839s; Streak: 1; Points: 5; Total: 56
+T 1469735940 18<Trivia18>	13. Art Culture and Literature : What is the middle name of author Arthur C. Clarke?
+T 1469735942 20<aer>30	lol
+T 1469735946 20<aer>30	conrad
+T 1469735946 18<mitya18>	Clark
+T 1469735950 20<aer>30	castor
+T 1469735950 18<Trivia18>	Hint: c******
+T 1469735951 18<thirteenthspiral18>	Canon
+T 1469735955 20<aer>30	well then
+T 1469735960 18<Trivia18>	Hint: cha****
+T 1469735962 18<mitya18>	Clarkee
+T 1469735965 18<mitya18>	Charles
+T 1469735965 18<Trivia18>	Winner: mitya; Answer: charles; Time: 24.542s; Streak: 2; Points: 4; Total: 60
+T 1469735969 20<aer>30	huh
+T 1469735971 18<Trivia18>	14. In 1843 British arrest Irish nationalist ---------- O'Connell for conspiracy. ?
+T 1469735974 20<aer>30	brial
+T 1469735980 18<Trivia18>	Hint: d*****
+T 1469735984 18<thirteenthspiral18>	donald
+T 1469735986 20<aer>30	first name that came to mind
+T 1469735993 18<thirteenthspiral18>	lol
+T 1469735993 18<Trivia18>	Hint: dan***
+T 1469735993 18<thirteenthspiral18>	daniel
+T 1469735993 18<Trivia18>	Winner: thirteenthspiral; Answer: daniel; Time: 22.179s; Streak: 1; Points: 2; Total: 2
+T 1469736000 18<Trivia18>	15. In siberia in 1994, a container full of what was discovered in the 2,000 year old grave of a scythian princess and priestess?
+T 1469736006 20<aer>30	weed
+T 1469736010 20<aer>30	marijuana
+T 1469736010 18<Trivia18>	Hint: ma*******
+T 1469736010 19<Trivia>	Winner: aer; Answer: marijuana; Time: 9.679s; Streak: 1; Points: 3; Total: 5846
+T 1469736013 20<aer>30	LOL
+T 1469736015 18<thirteenthspiral18>	oh what
+T 1469736016 18<Trivia18>	16. Food and Drink : Shepherds pie is meat ground up covered with a layer of what mashed up?
+T 1469736025 20<aer>30	sometimes the ridiculous answer is the correct answer
+T 1469736027 18<Trivia18>	Hint: p******
+T 1469736029 20<aer>30	potatoes
+T 1469736029 19<Trivia>	Winner: aer; Answer: potatoe; Time: 12.964s; Streak: 2; Points: 6; Total: 5852
+T 1469736035 18<Trivia18>	17. In which European country is Romansch one of the official languages?
+T 1469736038 20<aer>30	romania
+T 1469736041 20<aer>30	lithuania
+T 1469736042 20<aer>30	estonia
+T 1469736044 18<Trivia18>	Hint: sw*********
+T 1469736048 20<aer>30	switzerland
+T 1469736048 19<Trivia>	Winner: aer; Answer: switzerland; Time: 13.348s; Streak: 3; Points: 9; Total: 5861
+T 1469736048 18<thirteenthspiral18>	switzerland
+T 1469736056 18<thirteenthspiral18>	dang
+T 1469736056 18<Trivia18>	18. TV/ Movies: 1967 - Raquel Welch - Starred In This Movie: ?
+T 1469736058 20<aer>30	this is a battle of typing speed :p
+T 1469736061 18<mitya18>	Haha
+T 1469736062 20<aer>30	i hate these questions
+T 1469736065 18<Trivia18>	Hint: the o***** **********
+T 1469736067 18<thirteenthspiral18>	or internet speed
+T 1469736070 18<mitya18>	I stopped for a bit
+T 1469736076 18<Trivia18>	Hint: the olde** **********
+T 1469736096 18<Trivia18>	Hint: the olde** *******ion
+T 1469736102 24*	Seaofskies has quit ()
+T 1469736111 20<aer>30	the oldest communion
+T 1469736116 18<Trivia18>	Time's up! The answer was: the oldest profession
+T 1469736124 24*	kef has quit (Quit: This computer has gone to sleep)
+T 1469736125 18<Trivia18>	19. Mathematics : 10 of what equals 1 of rain in water content?
+T 1469736134 18<Trivia18>	Hint: s***
+T 1469736137 18<thirteenthspiral18>	what
+T 1469736144 18<Trivia18>	Hint: sn**
+T 1469736161 18<thirteenthspiral18>	snow
+T 1469736161 18<Trivia18>	Winner: thirteenthspiral; Answer: snow; Time: 35.896s; Streak: 1; Points: 2; Total: 4
+T 1469736167 18<Trivia18>	20. Politics : Seretse Khama was the first President of which country?
+T 1469736177 18<Trivia18>	Hint: bo******
+T 1469736187 20<aer>30	bosniasnia
+T 1469736187 18<Trivia18>	Hint: bots****
+T 1469736190 20<aer>30	botswana
+T 1469736190 19<Trivia>	Winner: aer; Answer: botswana; Time: 22.925s; Streak: 1; Points: 2; Total: 5863
+T 1469736198 18<Trivia18>	21. TV Film and Stage : In this 1968 film the husband of an unsuspecting young wife becomes involved with a witchs coven?
+T 1469736207 18<Trivia18>	Hint: ros****** ****
+T 1469736217 20<aer>30	bleh
+T 1469736217 18<Trivia18>	Hint: rosemar** ****
+T 1469736237 18<Trivia18>	Hint: rosemar** **by
+T 1469736246 20<aer>30	.strivia
+T 1469736247 18<Trivia18>	Trivia stopped. '.trivia [number]' to start playing again.
+T 1469736247 18<Muse-chan18>	SpamGuard: Trivia has ended. Commands and logging are now enabled.
+T 1469736282 18<mitya18>	$help
+T 1469736282 18<Muse-chan18>	Type $help <command> for details.
+T 1469736282 18<Muse-chan18>	poll, anime, [time, settimezone], blackjack, [money, loan, debt, pay], log, s/.
+T 1469736298 18<mitya18>	Hm maybe when I get home I'll expand s/
+T 1469736314 18<mitya18>	s/\//\\/
+T 1469736314 18<Muse-chan18>	<mitya> Hm maybe when I get home I'll expand s\
+T 1469736327 18<mitya18>	Some bots can't handle that kind of input
+T 1469736395 20<aer>30	can't it already handle regex 
+T 1469736420 18<mitya18>	I meant the slashes
+T 1469736435 18<mitya18>	What I want to add is like
+T 1469736445 18<mitya18>	s/something/$0/
+T 1469736445 18<Muse-chan18>	<mitya> And D. gray-man gets $0 again finally
+T 1469736451 20<aer>30	oh
+T 1469736461 18<mitya18>	Where $0 is the first matched argument
+T 1469736465 18<mitya18>	Etc
+T 1469736486 18<mitya18>	Useful when you leave out a word or something
+T 1469736510 20<aer>30	$help s/
+T 1469736510 18<Muse-chan18>	s/ is a regular expression substitution function. The syntax for use is `s/<Expression to be replaced>/<Replacement string>/<Modifier Flag>`. The flags available are i (case insensitivity) and g (global). For futher understanding of regular expressions, I recommend http://regexr.com .
+T 1469736540 20<aer>30	better add a blurb in there too
+T 1469736675 18<mitya18>	Yeah, I'll expand on it.
+T 1469736695 18<mitya18>	SoraSky, you should give me access to your rpi server :^)
+T 1469736717 18<mitya18>	And make muse a service so we can both make adjustments
+T 1469736729 18*	mitya has good ircbot ideas
+T 1469736753 20<aer>30	oh yeah did sora turn off ssh password authentication yet
+T 1469736758 20<aer>30	last time i checked it was still on
+T 1469912442 19*	Now talking on 22#nanodesu
+T 1469912442 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1469912442 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1469912442 18<Onee-chan18>	[Aer] whoosh~
+T 1469912442 22*	26Onee-chan gives channel operator status to 18aer
+T 1469912503 18<mitya18>	wb
+T 1469912514 20<aer>30	thx
+T 1469912518 20<aer>30	just booted into arch
+T 1469912586 18<mitya18>	ic
+T 1469912889 18<mitya18>	tfw I didn't have libevent
+T 1469912890 18<mitya18>	@_@
+T 1469912896 18*	mitya is an idiot
+T 1469912905 20<aer>30	??
+T 1469912918 18<mitya18>	couldn't compile the most up-to-date version of i3-gaps
+T 1469912924 18<mitya18>	because somehow I uninstalled that lib
+T 1469912938 18<mitya18>	probably when I switched from debian stable to debian testing
+T 1469912944 20<aer>30	lolol
+T 1469912957 20<aer>30	is there a huge difference between the two branches?
+T 1469912962 18<mitya18>	yes
+T 1469912969 20<aer>30	huh
+T 1469912971 18<mitya18>	nothing gets put into stable without being old, pretty much
+T 1469912977 18<mitya18>	there are 3 versions of debian
+T 1469912984 20<aer>30	three?!
+T 1469912989 20<aer>30	i thought there were only two
+T 1469912996 18<mitya18>	yup
+T 1469913424 18<mitya18>	wew I have cava again
+T 1469913429 18<mitya18>	yay for jumpy bars
+T 1469913727 23*	jonathanasdf (~jonathana@jonathanasdf.142857.net23) has joined
+T 1469913727 22*	26Onee-chan gives channel operator status to 18jonathanasdf
+T 1469913737 18<jonathanasdf18>	https://www.youtube.com/watch?v=cC8NBJTc6aI
+T 1469913739 18<Muse-chan18>	jonathanasdf, you have unread messages.
+T 1469913739 18<Muse-chan18>	Kuro-pi : http://puu.sh/qk1UL.jpg LOL (1 hour ago)
+T 1469913765 18<jonathanasdf18>	!tell Kuro-pi #namesarehard
+T 1469913765 18<Muse-chan18>	Message registered.
+T 1469913811 23*	HexOmega (cgiirc@Rizon-48B8D3A4.cinci.res.rr.com23) has joined
+T 1469914045 18<mitya18>	yo
+T 1469914051 18<mitya18>	how alcoholism
+T 1469914067 18<mitya18>	how's*
+T 1469914173 19*	Now talking on 22#nanodesu
+T 1469914173 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1469914173 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1469914173 18<Onee-chan18>	[Aer] whoosh~
+T 1469914173 22*	26Onee-chan gives channel operator status to 18aer
+T 1469914194 19<mitya>	welcome back aer
+T 1469914197 18<mitya18>	got bspwm going?
+T 1469914206 20<aer>30	not yet trying to install the conky subsolar
+T 1469914212 18<mitya18>	rip
+T 1469914221 20<aer>30	i was promised a star/satellite chart :'(
+T 1469914324 19*	Now talking on 22#nanodesu
+T 1469914324 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1469914324 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1469914324 18<Onee-chan18>	[Aer] whoosh~
+T 1469914324 22*	26Onee-chan gives channel operator status to 18aer
+T 1469914325 20<aer>30	yay!
+T 1469914331 20<aer>30	it works!!
+T 1469914336 18<mitya18>	grats
+T 1469914347 20<aer>30	but it's 1/4 my screen size lolol
+T 1469914474 20<aer>30	i wish i could make it bigger :(
+T 1469914519 18<mitya18>	were they using a small screen or
+T 1469914521 18<mitya18>	.
+T 1469914567 20<aer>30	the resolution was way lower
+T 1469914569 18<mitya18>	or are you using hidpi
+T 1469914572 20<aer>30	hidpi
+T 1469914575 18<mitya18>	ah
+T 1469914578 18<mitya18>	his was like
+T 1469914586 18<mitya18>	1600x1050
+T 1469914589 20<aer>30	yeah
+T 1469914596 20<aer>30	is there a way to upscale?
+T 1469914610 18<mitya18>	weird af resolution
+T 1469914623 20<aer>30	lol
+T 1469914632 18<mitya18>	look in the subsolar.conkyrc
+T 1469914641 18<mitya18>	if anything, that's most likely to be where you change things
+T 1469914652 18<jonathanasdf18>	conky
+T 1469914661 18<mitya18>	oh there are a bunch of fucking conky rcs
+T 1469914662 18<mitya18>	fuck this
+T 1469914667 20<aer>30	lolol
+T 1469914700 20<aer>30	huh 
+T 1469914855 20<aer>30	https://u.teknik.io/FtXkr.png
+T 1469914860 20<aer>30	no coastline info though :(
+T 1469914864 18<HexOmega18>	i just paid 88 cents to get into a closed beta for a game
+T 1469914869 18<HexOmega18>	the internet is great
+T 1469914917 18<ilampan18>	lol
+T 1469914930 20<aer>30	they should be paying you because they want their game to be tested lol
+T 1469914933 18<jonathanasdf18>	wat
+T 1469914938 18<jonathanasdf18>	you have to pay
+T 1469914939 18<jonathanasdf18>	?
+T 1469914949 18<HexOmega18>	no, i just missed the window to sign up
+T 1469914953 18<HexOmega18>	so i bought a beta key online
+T 1469914956 18<jonathanasdf18>	....lol
+T 1469914970 18<jonathanasdf18>	i should do that
+T 1469914978 18<jonathanasdf18>	sign up for random betas for everything and sell keys for 88 cents
+T 1469914995 18<HexOmega18>	i mean, it's a 2 week beta, so i can't complain that much
+T 1469915078 19*	Now talking on 22#nanodesu
+T 1469915078 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1469915078 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1469915078 18<Onee-chan18>	[Aer] whoosh~
+T 1469915078 22*	26Onee-chan gives channel operator status to 18aer
+T 1469915326 23*	ChappalChor7 (~chappalch@DAA1916.37BB4212.20947437.IP23) has joined
+T 1469915471 19*	Now talking on 22#nanodesu
+T 1469915471 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1469915471 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1469915471 18<Onee-chan18>	[Aer] whoosh~
+T 1469915471 22*	26Onee-chan gives channel operator status to 18aer
+T 1469915677 20<aer>30	$anime 91 days
+T 1469915677 18<Muse-chan18>	91 Days subs will be released in 5 days, 20 hours and 36 minutes.
+T 1469915693 18<mitya18>	get a better tint2
+T 1469915697 19<mitya>	aer
+T 1469915784 20<aer>30	that's why im moving to bspwm and bars :3
+T 1469915797 20<aer>30	i've also barely customized it lol
+T 1469915916 20<aer>30	and the color scheme matches the wallpaper really well
+T 1469916434 19*	Now talking on 22#nanodesu
+T 1469916434 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1469916434 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1469916434 18<Onee-chan18>	[Aer] whoosh~
+T 1469916434 22*	26Onee-chan gives channel operator status to 18aer
+T 1469916613 18<mitya18>	lol
+T 1469916696 24*	ChappalChor7 has quit (Ping timeout: 240 seconds)
+T 1469916774 23*	jonathanasdf_ (~jonathana@Rizon-3566B0F4.hsd1.ca.comcast.net23) has joined
+T 1469916816 24*	jonathanasdf has quit (Ping timeout: 240 seconds)
+T 1469917681 23*	nanodesu (~nanodesu@6F4EBA5F.C29AD1D5.C325045E.IP23) has joined
+T 1469917681 22*	26Onee-chan sets mode 24+q on 22#nanodesu nanodesu
+T 1469917681 22*	26Onee-chan gives channel operator status to 18nanodesu
+T 1469917754 20<aer>30	isn't it 6 am in china
+T 1469917813 23*	nanodesuyo (~nanodesu@Rizon-362306D.slac.stanford.edu23) has joined
+T 1469917907 18<erebea_v218>	Mornin nano O/
+T 1469917926 24*	nanodesu has quit (Ping timeout: 240 seconds)
+T 1469917967 18<nanodesuyo18>	yo
+T 1469918110 19*	Now talking on 22#nanodesu
+T 1469918110 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1469918110 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1469918110 18<Onee-chan18>	[Aer] whoosh~
+T 1469918110 22*	26Onee-chan gives channel operator status to 18aer
+T 1469918153 19<nanodesuyo>	hi aer
+T 1469918154 18<nanodesuyo18>	im in china
+T 1469918629 20<aer>30	yeah isn't it 6 am
+T 1469918636 20<aer>30	how are you able to wake up so early
+T 1469918638 20*	aer 30is envious
+T 1469918708 18<nanodesuyo18>	uh jetlag?
+T 1469918730 20<aer>30	oh right
+T 1469918736 20<aer>30	which city are you in?
+T 1469918741 18<nanodesuyo18>	beijing
+T 1469918762 20<aer>30	don't exercise
+T 1469918763 20<aer>30	ever
+T 1469918786 20<aer>30	and you won't end up with lung problems
+T 1469918814 20<aer>30	that's a key life hack while you're there ;)
+T 1469918825 18<nanodesuyo18>	lol
+T 1469918972 20<aer>30	or just do as mark zuckerberg did and take an early morning jog when the pollution is heaviest to impress all the chinese peoples you'll be meeting with your selflessness
+T 1469919113 18<mitya18>	Lmao
+T 1469919191 24*	nanodesuyo has quit (Ping timeout: 240 seconds)
+T 1469919215 23*	nanodesuyo_2 (~nanodesu@Rizon-362306D.slac.stanford.edu23) has joined
+T 1469919221 18<nanodesuyo_218>	.
+T 1469924686 19*	Now talking on 22#nanodesu
+T 1469924686 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1469924686 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1469924686 18<Onee-chan18>	[Aer] whoosh~
+T 1469924686 22*	26Onee-chan gives channel operator status to 18aer
+T 1469930498 19*	Now talking on 22#nanodesu
+T 1469930498 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1469930498 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1469930498 18<Onee-chan18>	[Aer] whoosh~
+T 1469930498 22*	26Onee-chan gives channel operator status to 18aer
+T 1469930967 24*	lekhaka has quit (Ping timeout: 240 seconds)
+T 1469931911 23*	xxkoyomixx (~qwebirc@Rizon-9E68F43B.singnet.com.sg23) has joined
+T 1469931942 FiSHLiM plugin unloaded
+T 1469931942 Python interface unloaded
+T 1470002188 19*	Now talking on 22#nanodesu
+T 1470002188 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1470002188 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1470002188 18<Onee-chan18>	[Aer] whoosh~
+T 1470002188 22*	26Onee-chan gives channel operator status to 18aer
+T 1470002199 18<mitya18>	whoosh
+T 1470002216 20<aer>30	wew
+T 1470002230 20<aer>30	vev
+T 1470002235 20<aer>30	>_>
+T 1470002332 24*	ChappalChor7 has quit (Ping timeout: 240 seconds)
+T 1470002353 20<aer>30	what does the mitya say
+T 1470002355 24*	WaveZero has quit (Read error: Connection reset by peer)
+T 1470002359 18<DefaultMelody18>	whoosh
+T 1470002363 18<mitya18>	^
+T 1470002374 18<mitya18>	almost done moving all my shit to my car
+T 1470002410 20<aer>30	how long is the trip
+T 1470002455 18<mitya18>	1300 miles total
+T 1470002460 18<mitya18>	doing 1000 tonight
+T 1470002465 18<mitya18>	the last 300 Thursday
+T 1470002473 18<mitya18>	spending a couple days in baltimore w/ my sis
+T 1470002477 20<aer>30	wao
+T 1470002487 20<aer>30	are you driving?
+T 1470002489 18<mitya18>	yup
+T 1470002501 23*	ChappalChor7 (~chappalch@E6072279.69F265E8.AC74BEC8.IP23) has joined
+T 1470002502 20<aer>30	stocked up on coffee?
+T 1470002507 18<mitya18>	yup
+T 1470002513 18<mitya18>	and various energy beverages
+T 1470002520 20<aer>30	alright you're good to go
+T 1470002557 20<aer>30	no matter what you do don't overdose on 5 hour energy
+T 1470002562 18<mitya18>	of course
+T 1470002568 18<mitya18>	I know how to handle my caffeine
+T 1470002570 18<mitya18>	;)
+T 1470002576 20<aer>30	lol
+T 1470002713 18<jonathanasdf_18>	gonna be a long day today
+T 1470002724 18<jonathanasdf_18>	.cc 1000/80
+T 1470002724 18<Internets18>	[calc] 1000/80 = 12.5
+T 1470002734 20<aer>30	$time jon
+T 1470002734 18<Muse-chan18>	It is currently Monday 02:35 in jonathanasdf's time zone.
+T 1470002741 20<aer>30	veery nice
+T 1470002776 18<jonathanasdf_18>	wat
+T 1470002778 20<aer>30	good luck shaking off that jet lag
+T 1470002790 18<jonathanasdf_18>	watawatawat
+T 1470002799 18<mitya18>	but there's no jet
+T 1470002803 20<aer>30	????
+T 1470002816 18<mitya18>	lmao I'm kidding
+T 1470002819 18<mitya18>	but I'll be fine
+T 1470002827 18<mitya18>	I'm used to insomnia anyway
+T 1470002834 18<jonathanasdf_18>	lol
+T 1470002835 20<aer>30	lol
+T 1470002841 18<mitya18>	when I went to my CT visit, I got 1 hr of sleep
+T 1470002853 18<mitya18>	then flew to DC because I missed my original flight
+T 1470002858 18<mitya18>	3>commence 7hr layover
+T 1470002864 20<aer>30	*nice*
+T 1470002881 18<mitya18>	yeah 
+T 1470002884 18<mitya18>	fuck taxis in CT
+T 1470002910 20<aer>30	and from then on mitya learned to handle his caffeine
+T 1470002956 18<mitya18>	lmao nah, I've always been a caffeine addict
+T 1470002994 20<aer>30	why don't we have rehab centers for caffeine
+T 1470003021 18<mitya18>	It's simpler than drugs to get over I guess
+T 1470003234 20<aer>30	do you take your coffee black?
+T 1470003239 23*	jonathanasdf (~jonathana@jonathanasdf.142857.net23) has joined
+T 1470003239 22*	26Onee-chan gives channel operator status to 18jonathanasdf
+T 1470003279 18<hakurei0618>	Today is Boh's birthday, or just after, right?
+T 1470003328 24*	jonathanasdf_ has quit (Ping timeout: 240 seconds)
+T 1470003487 FiSHLiM plugin unloaded
+T 1470003487 Python interface unloaded
+T 1470184244 19*	Now talking on 22#nanodesu
+T 1470184244 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1470184244 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1470184244 18<Onee-chan18>	[Aer] whoosh~
+T 1470184244 22*	26Onee-chan gives channel operator status to 18aer
+T 1470184691 FiSHLiM plugin unloaded
+T 1470184691 Python interface unloaded
+T 1470188091 19*	Now talking on 22#nanodesu
+T 1470188091 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1470188091 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1470188091 18<Onee-chan18>	[Aer] whoosh~
+T 1470188091 22*	26Onee-chan gives channel operator status to 18aer
+T 1470188100 20<aer>30	$log
+T 1470188109 20<aer>30	right
+T 1470188201 FiSHLiM plugin unloaded
+T 1470188201 Python interface unloaded
+T 1470188614 19*	Now talking on 22#nanodesu
+T 1470188614 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/  12https://streamable.com/n79j 13http://420.moe/ 12http://wanwan.moe/ 13https://streamable.com/t7i8  3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands.
+T 1470188614 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Mon Jul 18 18:34:33 2016)
+T 1470188614 18<Onee-chan18>	[Aer] whoosh~
+T 1470188614 22*	26Onee-chan gives channel operator status to 18aer
+T 1470188628 20<aer>30	mitya plz help
+T 1470188646 18<mitya18>	???
+T 1470188671 20<aer>30	i need a way to make my laptop's cpu not run at 60 degrees celcius just from playing a youtube video
+T 1470188675 20<aer>30	*70
+T 1470188679 18<mitya18>	Uh
+T 1470188688 18<mitya18>	That's bad
+T 1470188699 20<aer>30	lol
+T 1470188702 18<mitya18>	Why does it do that
+T 1470188710 18<mitya18>	get htop
+T 1470188717 18<nanodesuyo_218>	mitya hows yukari
+T 1470188738 18<mitya18>	I haven't edited while in Baltimore tbh
+T 1470188744 18<nanodesuyo_218>	:(((((((((
+T 1470188751 18<mitya18>	I get into CT Thursday
+T 1470188757 18<nanodesuyo_218>	we're still on schedule right
+T 1470188768 18<mitya18>	I tried to find the announcement but didn't see it
+T 1470188843 18*	mitya doesn't know the schedule any more
+T 1470188856 18<mitya18>	It shows I'm the only one to touch the folder in ages
+T 1470188878 18<nanodesuyo_218>	werent we supposed to finish by like first week of august?
+T 1470188890 18<nanodesuyo_218>	yeah i delayed the announcement becuas eijust realized we have to redo the themes for wordpress
+T 1470188893 18<nanodesuyo_218>	they retired our old theme
+T 1470188898 18<mitya18>	Oh ic
+T 1470188989 20<aer>30	reason: firefox uses like 4x as much resources as any other process
+T 1470188992 18<mitya18>	I was set back a bit by the event of my laptop keyboard getting spilled on and 12 keys stopped working but I ordered a replacement and have been using an external keyboard in the meantime
+T 1470189020 20<aer>30	aah cant english anymore
+T 1470189025 19<mitya>	aer, yeah ff had a long going memory leak issue
+T 1470189030 18<nanodesuyo_218>	lol but we're not too delayed right?
+T 1470189034 18<nanodesuyo_218>	get that fixed and u can get back o nit?
+T 1470189038 18<mitya18>	nanodesuyo_2 yeah not too bad
+T 1470189143 20<aer>30	so...is google chrome better than firefox?
+T 1470189165 18<nanodesuyo_218>	thanks
+T 1470189237 19<mitya>	aer, not really
+T 1470189243 18<mitya18>	They're pretty equivalent
+T 1470189248 18<kef18>	hey nano in cyrillic looks like laughter нано 
+T 1470189254 18<mitya18>	Both will eat your resources
+T 1470189266 18<kef18>	нананоно
+T 1470189268 20<aer>30	is there a decent browser than D:
+T 1470189272 20<aer>30	*then
+T 1470189277 18<mitya18>	I disabled caching in ff but I don't think that's what makes it not kill my cpu
+T 1470189287 20<aer>30	rip
+T 1470189332 18<mitya18>	Uh
+T 1470189369 20<aer>30	is chromium better than google chrome?
+T 1470189372 18<mitya18>	Jumanji/Surf/qtbrowser are pretty popular
+T 1470189375 20<aer>30	besides just being an open source version
+T 1470189381 18<mitya18>	Nah they're pretty identical
+T 1470189387 18<hobogunner18>	There is a variant of Firefox called Pale Moon
+T 1470189397 18<hobogunner18>	if you're pretty set on loving FF but want fewer leaks
+T 1470189398 20<aer>30	isnt jumanji a movie
+T 1470189404 20<aer>30	i remember watching it in middle school
+T 1470189451 20<aer>30	well okay apparently with fans running at 3.5k rpm cpu cools to 50 degrees
+T 1470189456 20<aer>30	i think thats decent right
+T 1470189475 18<hobogunner18>	still rather hot for a youtube video
+T 1470189482 18<hobogunner18>	my ff doesn't have that issue
+T 1470189490 20<aer>30	pale moon?
+T 1470189498 18<hobogunner18>	no, I run actual FF on my laptop
+T 1470189502 20<aer>30	oh
+T 1470189506 18*	mitya uses iceweasel
+T 1470189508 18<mitya18>	bc debian
+T 1470189520 20<aer>30	convenient lol
+T 1470189540 18<hobogunner18>	are you talking your desktop or your laptop running 50
+T 1470189550 18<mitya18>	70
+T 1470189551 20<aer>30	laptop
+T 1470189570 20<aer>30	its 50 with fans at 3.5k rpm lolol
+T 1470189576 18<hobogunner18>	oh, meh. I mean, that's pretty hot and if you have FB open and shit like that you deserve it but if not then w/e
+T 1470189576 20<aer>30	70 with fans at 2k
+T 1470189591 18<hobogunner18>	I just don't get how. That variance almost seems like you need to replace thermal paste
+T 1470189600 20<aer>30	>macbook
+T 1470189602 18<kef18>	are this is on ur macbook right
+T 1470189609 18<hobogunner18>	>Lenovo ultrabook
+T 1470189613 18<kef18>	i'm perpetually at like 60 C on 1.5k
+T 1470189621 18<hobogunner18>	my laptop should be running hotter than your tho
+T 1470189622 20<aer>30	on osx right
+T 1470189639 20<aer>30	things run a lot cooler on osx
+T 1470189642 18<mitya18>	hm youtube/ff don't seem to make my system freak out too much
+T 1470189659 18<mitya18>	even on hd video (not that the difference would be dramatic based on quality)
+T 1470189662 20<aer>30	meh ill sacrifice battery life for cpu for now
+T 1470189670 18<hobogunner18>	but....why
+T 1470189674 20<aer>30	no idea
+T 1470189677 18<hobogunner18>	why not both
+T 1470189690 18<kef18>	for some reason mangago is using 500 mb smh
+T 1470189705 20<aer>30	i mean...arch isnt optimized for mac hardware 
+T 1470189706 18<kef18>	do u by any chance have mangago open are
+T 1470189707 19<kef>	aer*
+T 1470189712 20<aer>30	wats mangago
+T 1470189718 18<kef18>	ok nvm then
+T 1470189722 20<aer>30	oh
+T 1470189722 18<kef18>	it a manga site
+T 1470189724 20<aer>30	bl?
+T 1470189726 20<aer>30	lol
+T 1470189726 18<mitya18>	https://u.teknik.io/7paxd.png
+T 1470189727 18<kef18>	not just bl
+T 1470189746 18<mitya18>	my cpu does work harder than normal when I watch yt
+T 1470189747 18<kef18>	i think my chrome uses like 3 gb
+T 1470189748 18<mitya18>	but not terribly
+T 1470189760 18<hobogunner18>	analyzers that I like make my comp crash
+T 1470189767 18<hobogunner18>	but I do force FF to only one core
+T 1470189775 18<mitya18>	I don't
+T 1470189785 18<mitya18>	I have 4 dual-threaded
+T 1470189787 18<mitya18>	I don't see the point
+T 1470189814 18<hobogunner18>	Well, we're on different OS' and different systems so....k?
+T 1470189824 20<aer>30	wow just ran google chrome and it started a bunch of processes that all use the same amount of resources as firefox
+T 1470189864 18<hobogunner18>	I dislike Chrome quite a bit
+T 1470189876 18<hobogunner18>	I'd honestly sooner use Edge
+T 1470189876 18<mitya18>	chrome used to be better than it is now imo
+T 1470189881 18<hobogunner18>	Oh, much
+T 1470189925 18<hobogunner18>	I mean, Chrome at least doesn't have FF' issues (at least for me) that require me to switch it to one or two cores only, but still. It is a constantly refreshing (annoyingly) beast
+T 1470190055 18<hobogunner18>	Firefox actually handled better previously for me before as well too though, but that could also be because I've used FF since iTunes was green, not blue
+T 1470190397 24*	Wing_ has quit (Ping timeout: 240 seconds)
+T 1470190543 18<kef18>	chat ded why
+T 1470190770 18<mitya18>	idk
+T 1470190790 18<mitya18>	I'm trying to figure out why my comp says it doesn't have a backlight
+T 1470190806 20<aer>30	you mean backlight property?
+T 1470190813 18<mitya18>	yeah
+T 1470190821 20<aer>30	same thing happened to me
+T 1470190830 20<aer>30	https://aur.archlinux.org/packages/light-git
+T 1470190834 20<aer>30	just install that
+T 1470190836 20<aer>30	works like a charm
+T 1470190843 20<aer>30	upstream url ofc lol
+T 1470190957 20<aer>30	then bind keys to light -A x%/light -U x%
+T 1470190995 18<mitya18>	what a shitty username to type
+T 1470190999 18<mitya18>	"haikarainen"
+T 1470191038 18<mitya18>	wtf is help2man and why does it depend on that
+T 1470191066 18<mitya18>	meh fuck it it's tiny
+T 1470191071 20<aer>30	lol
+T 1470191183 18<mitya18>	wew
+T 1470191194 18<mitya18>	set my brightness to 50% and it worked
+T 1470191203 18<mitya18>	xrandr gives fake brightness changes
+T 1470191213 20<aer>30	yep
+T 1470191214 18<mitya18>	it just messes with the colors
+T 1470191243 20<aer>30	its weird how the backlight isn't detected though
+T 1470191307 18<mitya18>	it probably has to do with xorg not having a set backlight listed
+T 1470191308 18<mitya18>	w/e
+T 1470191329 18<mitya18>	messing with the /sys/class/backlight/*/brightness file is just as simple
+T 1470191339 18<mitya18>	pretty sure that's what `light` does
+T 1470191347 20<aer>30	yeah
+T 1470191372 20<aer>30	but light makes things simple :D
+T 1470191447 20*	Disconnected (20)
+T 1470191449 FiSHLiM plugin unloaded
+T 1470191449 Python interface unloaded
+T 1470967178 19*	Now talking on 22#nanodesu
+T 1470967178 22*	Topic for 22#nanodesu is: 3Welcome to NanoDesu Translations 4Diamond is Unbreakable!! 6https://nanodesutranslations.wordpress.com/ 3Some fun: 12http://bit.ly/1DKeLJR 13http://loli.dance/ 13http://420.moe/ 12http://wanwan.moe/ 3Come join us at our forums: 6http://forums.nanodesutranslations.org/ 3Type 4$help 3for Muse-chan commands. 2Happy 3Birthday 5H7e9x!!!
+T 1470967178 22*	Topic for 22#nanodesu set by 26mitya!~fullsalvo@blood.and.thunder (24Sat Aug  6 18:49:46 2016)
+T 1470967178 18<Onee-chan18>	[Aer] whoosh~
+T 1470967178 22*	26Onee-chan gives channel operator status to 18aer
+T 1470967187 18<HexOmega18>	so fighting games kind of work like this: "game start, footsies (throwing out pokes to bait the opponent), hit connects, execute combo, reset game to footsies"
+T 1470967199 18<HexOmega18>	all of the skill is in baiting the opponent 
+T 1470967214 18<Yarn_18>	it's like 10% reaction 90% yomi
+T 1470967218 18<HexOmega18>	lul
+T 1470967221 18<HexOmega18>	5 layers yomi
+T 1470967222 20<aer>30	that's a lot like real boxing
+T 1470967232 20<aer>30	isn't it
+T 1470967239 18<HexOmega18>	yea
+T 1470967242 18<Yarn_18>	and 5% cheese
+T 1470967250 18<HexOmega18>	it's a good bit of mind games and baiting out openings 
+T 1470967298 20<aer>30	"knowing the mind of the opponent" lol
+T 1470967326 20<aer>30	there's a lot more strategy involved than i expected
+T 1470967506 23*	breezy (~jerry@DD26BD60:36F4FD5E:3BFB3BC5:IP23) has joined
+T 1470967506 18<Onee-chan18>	[breezy] whoosh~
+T 1470967506 22*	26Onee-chan gives channel operator status to 18breezy
+T 1470967545 19*	19You have been killed by 26NickServ (20(GHOST command used by breezy))
+T 1470967545 20*	Disconnected (20Remote host closed socket)
+T 1470967548 FiSHLiM plugin unloaded
+T 1470967548 Python interface unloaded

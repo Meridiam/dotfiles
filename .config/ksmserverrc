@@ -1,0 +1,22 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=firefox
+count=1
+
+[Session: saved at previous logout]
+clientId1=104165720000146966341700000005040000
+clientId2=104165720000146966341800000005040005
+count=2
+program1=/usr/bin/openbox
+program2=pulseaudio
+restartCommand1=/usr/bin/openbox,--sm-client-id,104165720000146966341700000005040000,--sm-save-file,/home/jerry/.cache/openbox/sessions/1469663417-524-3132872862.obs
+restartCommand2=
+restartStyleHint1=2
+restartStyleHint2=0
+userId1=jerry
+userId2=jerry
+wasWm1=true
+wasWm2=false

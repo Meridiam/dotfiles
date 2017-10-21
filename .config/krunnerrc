@@ -1,0 +1,5 @@
+[General]
+history=alsamixer
+
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_alsamixer

@@ -1,0 +1,14 @@
+[files]
+xresources = "/home/jerry/.Xresources"
+bar = "/home/jerry/scripts/panel"
+bspwmrc = "/home/jerry/.config/bspwm/bspwmrc"
+sxhkdrc = "/home/jerry/.config/sxhkd/sxhkdrc"
+
+[default]
+font = "DejaVuSansMono:size=18"
+
+bg = "#1b1b1b"
+fg = "#777777"
+red = "#7e5c62"
+grn = "#658861"
+blu = "#628b87"

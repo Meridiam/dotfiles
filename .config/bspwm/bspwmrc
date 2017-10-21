@@ -1,0 +1,16 @@
+#! /bin/sh
+
+bspc config border_width         1
+bspc config window_gap          50
+bspc config top_padding		50
+
+bspc config split_ratio          0.52
+bspc config borderless_monocle   true
+bspc config gapless_monocle      false
+bspc config click_to_focus	true
+
+bspc monitor -d 1 2 3 4 5
+
+nitrogen --restore &
+stalonetray &
+dropbox &

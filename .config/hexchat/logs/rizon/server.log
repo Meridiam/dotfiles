@@ -1,0 +1,49 @@
+**** BEGIN LOGGING AT Wed Jul 27 11:49:48 2016
+
+Jul 27 11:49:48 *	Looking up irc.rizon.net
+**** BEGIN LOGGING AT Wed Jul 27 19:18:24 2016
+
+Jul 27 19:18:24 *	Looking up irc.rizon.net
+Jul 27 19:18:24 *	Connecting to us.iso.rizon.net (2607:fcd0:daaa:600::10:6697)
+Jul 27 19:18:25 *	* Certification info:
+Jul 27 19:18:25 *	  Subject:
+Jul 27 19:18:25 *	    OU=Domain Control Validated
+Jul 27 19:18:25 *	    OU=Gandi Standard SSL
+Jul 27 19:18:25 *	    CN=irc.rizon.net
+Jul 27 19:18:25 *	  Issuer:
+Jul 27 19:18:25 *	    C=FR
+Jul 27 19:18:25 *	    ST=Paris
+Jul 27 19:18:25 *	    L=Paris
+Jul 27 19:18:25 *	    O=Gandi
+Jul 27 19:18:25 *	    CN=Gandi Standard SSL CA 2
+Jul 27 19:18:25 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 27 19:18:25 *	  Sign algorithm sha256WithRSAEncryption
+Jul 27 19:18:25 *	  Valid since Mar 30 00:00:00 2016 GM to Apr 19 23:59:59 2019 GM
+Jul 27 19:18:25 *	* Cipher info:
+Jul 27 19:18:25 *	  Version: TLSv1/SSLv3, cipher AES256-GCM-SHA384 (256 bits)
+Jul 27 19:18:25 *	Connected. Now logging in.
+Jul 27 19:18:25 *	Please wait while we process your connection.
+Jul 27 19:18:25 *	*** Looking up your hostname...
+Jul 27 19:18:25 *	*** Checking Ident
+Jul 27 19:18:25 *	*** Couldn't look up your hostname
+Jul 27 19:18:27 *	*** No Ident response
+Jul 27 19:18:27 *	Capabilities supported: multi-prefix uhnames userhost-in-names
+Jul 27 19:18:27 *	Capabilities requested: multi-prefix userhost-in-names 
+Jul 27 19:18:27 *	aer is erroneous. Retrying with terra...
+Jul 27 19:18:27 *	Capabilities acknowledged: multi-prefix uhnames userhost-in-names
+Jul 27 19:18:27 *	*** Connected securely via TLSv1.2 AES256-GCM-SHA384-256
+Jul 27 19:18:27 *	*** Your host is masked (8FD95AEF:357FC0A4:3BFB3BC5:IP)
+**** ENDING LOGGING AT Wed Jul 27 19:18:27 2016
+
+**** BEGIN LOGGING AT Tue Aug  2 22:30:49 2016
+
+Aug 02 22:30:49 FiSHLiM plugin unloaded
+Aug 02 22:30:49 Python interface unloaded
+**** ENDING LOGGING AT Tue Aug  2 22:30:49 2016
+
+**** BEGIN LOGGING AT Thu Aug 11 22:05:48 2016
+
+Aug 11 22:05:48 FiSHLiM plugin unloaded
+Aug 11 22:05:48 Python interface unloaded
+**** ENDING LOGGING AT Thu Aug 11 22:05:48 2016
+

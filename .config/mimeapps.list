@@ -1,0 +1,30 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-5FFHLY.desktop
+x-scheme-handler/https=userapp-Firefox-5FFHLY.desktop
+x-scheme-handler/ftp=userapp-Firefox-5FFHLY.desktop
+x-scheme-handler/chrome=userapp-Firefox-5FFHLY.desktop
+text/html=userapp-Firefox-5FFHLY.desktop
+application/x-extension-htm=userapp-Firefox-5FFHLY.desktop
+application/x-extension-html=userapp-Firefox-5FFHLY.desktop
+application/x-extension-shtml=userapp-Firefox-5FFHLY.desktop
+application/xhtml+xml=userapp-Firefox-5FFHLY.desktop
+application/x-extension-xhtml=userapp-Firefox-5FFHLY.desktop
+application/x-extension-xht=userapp-Firefox-5FFHLY.desktop
+
+[Added Associations]
+application/zip=userapp-unzip-I8U4KY.desktop;
+text/plain=geany.desktop;
+application/x-theme=lxshortcut.desktop;
+text/css=geany.desktop;
+image/jpeg=mirage.desktop;qiv.desktop;
+text/html=geany.desktop;emacs.desktop;userapp-Firefox-5FFHLY.desktop;
+text/markdown=geany.desktop;
+image/png=mirage.desktop;qiv.desktop;
+application/x-compressed-tar=userapp-tar-DMNFLY.desktop;userapp-tar-HU6GLY.desktop;
+text/x-lua=geany.desktop;
+text/x-log=geany.desktop;
+application/x-shellscript=geany.desktop;emacs.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+application/epub+zip=userapp-unzip-I8U4KY.desktop;
+application/xhtml+xml=userapp-Firefox-5FFHLY.desktop;

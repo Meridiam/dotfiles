@@ -1,0 +1,98 @@
+! vim: set filetype=xdefaults :
+
+Xft.dpi: 110
+
+URxvt.font: xft:DejaVuSansMono:size=15
+! URxvt.font: xft:SourceCodePro:size=15
+
+! Bold fonts
+URxvt*boldFont: 
+URxvt*italicFont: 
+URxvt*bolditalicFont: 
+
+URxvt*lineSpace: 8
+URxvt.letterSpace: 0
+URxvt.scrollBar: false
+
+! set terminal padding
+URxvt.internalBorder: 40
+
+! set cursor blinking
+URxvt.cursorBlink: 1
+
+! set bell
+URxvt.urgentOnBell: true
+
+! Copy/paste
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+URxvt.iso14755: False
+URxvt.perl-ext-common: default,clipboard,matcher
+
+! Open urls
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+
+! special
+*.foreground:   #777777
+*.background:   #1b1b1b
+*.cursorColor:  #628b87
+
+! black
+*.color0:       #1b1b1b
+*.color8:       #777777
+
+! red
+*.color1:       #7e5c62
+*.color9:       #7e5c62
+
+! green
+*.color2:       #658861
+*.color10:      #658861
+
+! yellow
+*.color3:       #658861
+*.color11:      #658861
+
+! blue
+*.color4:       #628b87
+*.color12:      #628b87
+
+! magenta
+*.color5:       #628b87
+*.color13:      #628b87
+
+! cyan
+*.color6:       #628b87
+*.color14:      #628b87
+
+! white
+*.color7:       #777777
+*.color15:      #777777
+
+/* Rofi */
+#define r_bg   #000000
+#define r_fg   #ebdbb2
+#define r_hlfg #d65d0e
+ 
+! States: bg, fg, bgalt, hlbg, hlfg
+rofi.color-enabled: true
+rofi.color-normal: r_bg,r_fg,#000000,r_bg,r_hlfg
+rofi.color-urgent: r_bg,#fb4934,#000000,r_bg,r_hlfg
+rofi.color-active: r_bg,r_fg,#000000,r_bg,#fe8019
+! states: background, border
+rofi.color-window: r_bg,#d5c4a1
+ 
+rofi.separator-style: none
+rofi.sidebar-mode: true
+rofi.bw: 0
+rofi.columns: 1
+rofi.padding: 16
+ 
+rofi.yoffset: 0
+rofi.opacity: 50
+rofi.fake-transparency: false
+rofi.location: 0
+rofi.width: 50
+rofi.font: GohuFont 11
+rofi.lines: 15
+rofi.hide-scrollbar: true
